@@ -1,0 +1,94 @@
+{
+    "Comparison": [
+        "Ġhowever",
+        "Ġbut",
+        "Ġalthough"
+    ],
+    "Comparison.Concession": [
+        "Ġalthough"
+    ],
+    "Comparison.Concession.Contra-expectation": [
+        "Ġbut",
+        "Ġhowever",
+        "Ġalthough"
+    ],
+    "Comparison.Concession.Expectation": [
+        "Ġalthough"
+    ],
+    "Comparison.Contrast": [
+        "Ġbut",
+        "Ġhowever",
+        "Ġalthough"
+    ],
+    "Comparison.Contrast.Juxtaposition": [
+        "Ġhowever",
+        "Ġbut"
+    ],
+    "Comparison.Contrast.Opposition": [
+        "Ġbut",
+        "Ġhowever"
+    ],
+    "Contingency.Cause.Reason": [
+        "Ġbecause",
+        "Ġas",
+        "Ġsince"
+    ],
+    "Contingency.Cause.Result": [
+        "Ġso",
+        "Ġconsequently",
+        "Ġthus"
+    ],
+    "Contingency.Pragmatic cause.Justification": [
+        "Ġbecause",
+        "Ġas",
+        "Ġsince"
+    ],
+    "Expansion": [
+        "Ġindeed"
+    ],
+    "Expansion.Alternative.Chosen alternative": [
+        "Ġinstead",
+        "Ġrather"
+    ],
+    "Expansion.Alternative.Conjunctive": [
+        "Ġor"
+    ],
+    "Expansion.Conjunction": [
+        "Ġand",
+        "Ġalso",
+        "Ġfurthermore"
+    ],
+    "Expansion.Instantiation": [
+        "Ġexample",
+        "Ġinstance"
+    ],
+    "Expansion.List": [
+        "Ġand"
+    ],
+    "Expansion.Restatement": [
+        "Ġindeed"
+    ],
+    "Expansion.Restatement.Equivalence": [
+        "Ġindeed"
+    ],
+    "Expansion.Restatement.Generalization": [
+        "Ġindeed"
+    ],
+    "Expansion.Restatement.Specification": [
+        "Ġspecifically",
+        "Ġindeed"
+    ],
+    "Temporal.Asynchronous.Precedence": [
+        "Ġthen",
+        "Ġsubsequently"
+    ],
+    "Temporal.Asynchronous.Succession": [
+        "Ġpreviously",
+        "Ġearlier",
+        "Ġafter"
+    ],
+    "Temporal.Synchrony": [
+        "Ġmeanwhile",
+        "Ġwhile"
+    ]
+}

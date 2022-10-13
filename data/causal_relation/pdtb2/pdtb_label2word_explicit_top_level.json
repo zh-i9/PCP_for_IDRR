@@ -1,0 +1,71 @@
+{
+    "Comparison": [
+        "Ġcomparison"
+    ],
+    "Comparison.Concession": [
+        "Ġcomparison"
+    ],
+    "Comparison.Concession.Contra-expectation": [
+        "Ġcomparison"
+    ],
+    "Comparison.Concession.Expectation": [
+        "Ġcomparison"
+    ],
+    "Comparison.Contrast": [
+        "Ġcomparison"
+    ],
+    "Comparison.Contrast.Juxtaposition": [
+        "Ġcomparison"
+    ],
+    "Comparison.Contrast.Opposition": [
+        "Ġcomparison"
+    ],
+    "Contingency.Cause.Reason": [
+        "Ġcontingency"
+    ],
+    "Contingency.Cause.Result": [
+        "Ġcontingency"
+    ],
+    "Contingency.Pragmatic cause.Justification": [
+        "Ġcontingency"
+    ],
+    "Expansion": [
+        "Ġexpansion"
+    ],
+    "Expansion.Alternative.Chosen alternative": [
+        "Ġexpansion"
+    ],
+    "Expansion.Alternative.Conjunctive": [
+        "Ġexpansion"
+    ],
+    "Expansion.Conjunction": [
+        "Ġexpansion"
+    ],
+    "Expansion.Instantiation": [
+        "Ġexpansion"
+    ],
+    "Expansion.List": [
+        "Ġexpansion"
+    ],
+    "Expansion.Restatement": [
+        "Ġexpansion"
+    ],
+    "Expansion.Restatement.Equivalence": [
+        "Ġexpansion"
+    ],
+    "Expansion.Restatement.Generalization": [
+        "Ġexpansion"
+    ],
+    "Expansion.Restatement.Specification": [
+        "Ġexpansion"
+    ],
+    "Temporal.Asynchronous.Precedence": [
+        "Ġtemporal"
+    ],
+    "Temporal.Asynchronous.Succession": [
+        "Ġtemporal"
+    ],
+    "Temporal.Synchrony": [
+        "Ġtemporal"
+    ]
+}
