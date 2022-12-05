@@ -1,0 +1,112 @@
+{
+    "Comparison": {
+        "but": 13,
+        "however": 3,
+        "by comparison": 1,
+        "although": 1,
+        "while": 1,
+        "yet": 1
+    },
+    "Comparison.Concession": {
+        "while": 3,
+        "still": 2,
+        "even though": 2,
+        "but": 1,
+        "yet": 1,
+        "nevertheless": 1,
+        "though": 1,
+        "even if": 1
+    },
+    "Comparison.Contrast": {
+        "but": 104,
+        "however": 20,
+        "while": 12,
+        "although": 9,
+        "still": 4,
+        "though": 3,
+        "yet": 2,
+        "in contrast": 1,
+        "and": 1
+    },
+    "Contingency.Cause.Reason": {
+        "because": 22,
+        "as": 10,
+        "only because": 1,
+        "then": 1,
+        "indeed": 1,
+        "largely because": 1,
+        "since": 1
+    },
+    "Contingency.Cause.Result": {
+        "so": 8,
+        "thus": 3,
+        "as a result": 2,
+        "therefore": 2,
+        "and": 2,
+        "now that": 1,
+        "so that": 1
+    },
+    "Contingency.Condition": {
+        "if": 38,
+        "when": 2,
+        "even if": 2,
+        "then": 1,
+        "as long as": 1
+    },
+    "Expansion.Alternative": {
+        "unless": 3,
+        "or": 3
+    },
+    "Expansion.Alternative.Chosen alternative": {
+        "instead": 5,
+        "but": 1
+    },
+    "Expansion.Conjunction": {
+        "and": 97,
+        "also": 58,
+        "moreover": 3,
+        "separately": 3,
+        "indeed": 2,
+        "while": 2,
+        "similarly": 2,
+        "meanwhile": 2,
+        "or": 1,
+        "finally": 1,
+        "besides": 1
+    },
+    "Expansion.Instantiation": {
+        "for example": 8,
+        "for instance": 1
+    },
+    "Expansion.Restatement": {
+        "in fact": 2,
+        "in other words": 1,
+        "in particular": 1,
+        "indeed": 1,
+        "overall": 1
+    },
+    "Temporal.Asynchronous.Precedence": {
+        "then": 21,
+        "before": 12,
+        "until": 9,
+        "later": 4,
+        "shortly before": 2
+    },
+    "Temporal.Asynchronous.Succession": {
+        "after": 27,
+        "when": 4,
+        "since": 3,
+        "previously": 2,
+        "as": 1,
+        "earlier": 1,
+        "ever since": 1,
+        "minutes after": 1,
+        "shortly after": 1,
+        "a month after": 1
+    },
+    "Temporal.Synchrony": {
+        "as": 23,
+        "when": 17,
+        "as soon as": 1
+    }
+}

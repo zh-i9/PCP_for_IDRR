@@ -1,0 +1,3970 @@
+[
+    {
+        "Arg1": "The bill would prevent the Resolution Trust Corp. from raising temporary working capital by having an RTC-owned bank or thrift issue debt that wouldn't be counted on the federal budget",
+        "Arg2": "to restrict the RTC to Treasury borrowings only, unless the agency receives specific congressional authorization",
+        "Connective": "specifically",
+        "DocID": "wsj_2200",
+        "ID": 35708,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "But the RTC also requires \"working\" capital to maintain the bad assets of thrifts that are sold",
+        "Arg2": "That debt would be paid off as the assets are sold",
+        "Connective": "subsequently",
+        "DocID": "wsj_2200",
+        "ID": 35715,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "It's a problem that clearly has to be resolved",
+        "Arg2": "The agency has already spent roughly $19 billion selling 34 insolvent S&Ls, and it is likely to sell or merge 600 by the time the bailout concludes",
+        "Connective": "as",
+        "DocID": "wsj_2200",
+        "ID": 35717,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Absent other working capital the RTC would be forced to delay other thrift resolutions until cash could be raised by selling the bad assets",
+        "Arg2": "We would have to wait until we have collected on those assets before we can move forward",
+        "Connective": "in other words",
+        "DocID": "wsj_2200",
+        "ID": 35720,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "That secrecy leads to a proposal like the one from Ways and Means, which seems to me sort of draconian",
+        "Arg2": "The RTC is going to have to pay a price of prior consultation on the Hill if they want that kind of flexibility",
+        "Connective": "in other words",
+        "DocID": "wsj_2200",
+        "ID": 35729,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Just days after the 1987 crash, major brokerage firms rushed out ads to calm investors",
+        "Arg2": "This time around, they're moving even faster",
+        "Connective": "but",
+        "DocID": "wsj_2201",
+        "ID": 35732,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "PaineWebber Inc. filmed a new television commercial at 4 p.m. EDT yesterday and had it on the air by last night",
+        "Arg2": "Fidelity Investments placed new ads in newspapers yesterday, and wrote another new ad appearing today",
+        "Connective": "and",
+        "DocID": "wsj_2201",
+        "ID": 35733,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "PaineWebber Inc. filmed a new television commercial at 4 p.m. EDT yesterday and had it on the air by last night.Fidelity Investments placed new ads in newspapers yesterday, and wrote another new ad appearing today",
+        "Arg2": "Shearson Lehman Hutton Inc. by yesterday afternoon had already written new TV ads",
+        "Connective": "and",
+        "DocID": "wsj_2201",
+        "ID": 35734,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The brokerage firms learned a lesson the last time around",
+        "Arg2": "This time, the firms were ready",
+        "Connective": "so",
+        "DocID": "wsj_2201",
+        "ID": 35738,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Fidelity, for example, prepared ads several months ago in case of a market plunge",
+        "Arg2": "When the market went into its free fall Friday afternoon, the investment firm ordered full pages in the Monday editions of half a dozen newspapers",
+        "Connective": "then",
+        "DocID": "wsj_2201",
+        "ID": 35740,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "A lot of investor confidence comes from the fact that they can speak to us",
+        "Arg2": "To maintain that dialogue is absolutely crucial",
+        "Connective": "so",
+        "DocID": "wsj_2201",
+        "ID": 35745,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "To maintain that dialogue is absolutely crucial",
+        "Arg2": "It would have been too late to think about on Friday",
+        "Connective": "but",
+        "DocID": "wsj_2201",
+        "ID": 35746,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "It would have been too late to think about on Friday",
+        "Arg2": "We had to think about it ahead of time",
+        "Connective": "so",
+        "DocID": "wsj_2201",
+        "ID": 35747,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Today's Fidelity ad goes a step further, encouraging investors to stay in the market or even to plunge in with Fidelity",
+        "Arg2": "Underneath the headline \"Diversification,\" it counsels, \"Based on the events of the past week, all investors need to know their portfolios are balanced to help protect them against the market's volatility.\" It goes on to plug a few diversified Fidelity funds by name",
+        "Connective": "in particular",
+        "DocID": "wsj_2201",
+        "ID": 35749,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Underneath the headline \"Diversification,\" it counsels, \"Based on the events of the past week, all investors need to know their portfolios are balanced to help protect them against the market's volatility",
+        "Arg2": "It goes on to plug a few diversified Fidelity funds by name",
+        "Connective": "then",
+        "DocID": "wsj_2201",
+        "ID": 35750,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "PaineWebber also was able to gear up quickly thanks to the 1987 crash",
+        "Arg2": "In the aftermath of the 1987 debacle, the brokerage firm began taping commercials in-house, ultimately getting its timing down fast enough to tape a commercial after the market closed and rush it on the air that night",
+        "Connective": "specifically",
+        "DocID": "wsj_2201",
+        "ID": 35752,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The new PaineWebber commercial features Mary Farrell, one of the firm's most visible investment strategists, sounding particularly bullish",
+        "Arg2": "Taped just as the market closed yesterday, it offers Ms. Farrell advising, \"We view the market here as going through a relatively normal cycle. . . . We continue to feel that the stock market is still the place to be for long-term appreciation",
+        "Connective": "specifically",
+        "DocID": "wsj_2201",
+        "ID": 35756,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "We view the market here as going through a relatively normal cycle",
+        "Arg2": "We continue to feel that the stock market is still the place to be for long-term appreciation",
+        "Connective": "and",
+        "DocID": "wsj_2201",
+        "ID": 35757,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "We're saying the worst thing that anyone can do is to see the market go down and dump everything",
+        "Arg2": "If you owned it and liked it Friday, the true value hasn't changed",
+        "Connective": "since",
+        "DocID": "wsj_2201",
+        "ID": 35760,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "If you owned it and liked it Friday, the true value hasn't changed",
+        "Arg2": "This isn't 1987 revisited",
+        "Connective": "in other words",
+        "DocID": "wsj_2201",
+        "ID": 35762,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "With the market fluctuating and then closing up more than 88 points yesterday, investment firms had to constantly revise their approach",
+        "Arg2": "At Shearson Lehman, executives created potential new commercials Friday night and throughout the weekend, then had to regroup yesterday afternoon",
+        "Connective": "for instance",
+        "DocID": "wsj_2201",
+        "ID": 35764,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "But in a meeting after the market closed yesterday, Shearson executives decided not to go ahead with the stock-market ad",
+        "Arg2": "We don't think at this point anything needs to be said",
+        "Connective": "because",
+        "DocID": "wsj_2201",
+        "ID": 35769,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "We don't think at this point anything needs to be said",
+        "Arg2": "The market seems to be straightening out",
+        "Connective": "because",
+        "DocID": "wsj_2201",
+        "ID": 35770,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The market seems to be straightening out",
+        "Arg2": "we're taking a wait-and-see attitude",
+        "Connective": "so",
+        "DocID": "wsj_2201",
+        "ID": 35771,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "But it remains to be seen whether their ads will be any more effective",
+        "Arg2": "In 1987, despite a barrage of ads from most of the major investment firms, individuals ran from the market en masse",
+        "Connective": "because",
+        "DocID": "wsj_2201",
+        "ID": 35773,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "In 1987, despite a barrage of ads from most of the major investment firms, individuals ran from the market en masse",
+        "Arg2": "Now the firms must try their hardest to prove that advertising can work this time around",
+        "Connective": "so",
+        "DocID": "wsj_2201",
+        "ID": 35774,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Mr. Eskandarian becomes chairman and chief executive of Arnold",
+        "Arg2": "John Verret, the agency's president and chief executive, will retain the title of president",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2201",
+        "ID": 35777,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Separately, McDonald's Corp., Oak Brook, Ill., named Arnold to handle its estimated $4 million cooperative ad account for the Hartford, Conn., area",
+        "Arg2": "That account had been handled by Della Femina, McNamee WCRS",
+        "Connective": "previously",
+        "DocID": "wsj_2201",
+        "ID": 35779,
+        "Sense": "Temporal.Asynchronous.Succession"
+    },
+    {
+        "Arg1": "and the mean ol' law caught up with the San Francisco Giants in the World Series last weekend",
+        "Arg2": "The team that dumped runs by the bushel on the Chicago Cubs in the National League playoffs was held to just one in two games by the home-team Oakland A's",
+        "Connective": "in particular",
+        "DocID": "wsj_2202",
+        "ID": 35783,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "In game two, on a cool Sunday evening in this land of perpetual autumn, a lot of the catching up was done by the A's catcher, Terry Steinbach",
+        "Arg2": "He hit a 2-0 pitch from Rick Reuschel into the left-field stands in inning four to stretch his team's lead from 2-1 to a decisive 5-1, where it stayed",
+        "Connective": "for instance",
+        "DocID": "wsj_2202",
+        "ID": 35784,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "So what if Steinbach had struck just seven home runs in 130 regular-season games, and batted in the seventh position of the A's lineup",
+        "Arg2": "If you get your pitch, and take a good swing, anything can happen",
+        "Connective": "because",
+        "DocID": "wsj_2202",
+        "ID": 35786,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "On Saturday night, quite a few of the boys in green and gold salted away successes to salve the pain of past and, no doubt, future droughts",
+        "Arg2": "Mark McGwire, the big, red-haired Oakland first baseman, had three hits in four at bats, two more than he'd had in the five-game Dodger series in which he'd gone 1-for-17",
+        "Connective": "for instance",
+        "DocID": "wsj_2202",
+        "ID": 35789,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Mark McGwire, the big, red-haired Oakland first baseman, had three hits in four at bats, two more than he'd had in the five-game Dodger series in which he'd gone 1-for-17",
+        "Arg2": "The A-men batting Nos. 6 through 9, a.k.a. the \"bottom of the order,\" got seven of their team's 11 hits and scored four of its runs in a 5-0 decision",
+        "Connective": "and",
+        "DocID": "wsj_2202",
+        "ID": 35790,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The stat to reckon with here says that about three of four clubs (29 of 39) that took 2-0 Series leads went on to win it all",
+        "Arg2": "That's not an average to soothe Giant rooters",
+        "Connective": "indeed",
+        "DocID": "wsj_2202",
+        "ID": 35797,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "but they observe them in relative calm",
+        "Arg2": "Partisans of the two combatants sat side by side in the 49,000-plus seats of Oakland Coliseum, and while they cheered their favorites and booed the opposition, hostilities advanced no further, at least as far as I could see",
+        "Connective": "for instance",
+        "DocID": "wsj_2202",
+        "ID": 35799,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "A few folks even showed up wearing caps bearing the colors and emblems of both teams",
+        "Arg2": "I'm for the Giants today, but only because they lost yesterday.I love 'em both.The only thing I'm rooting for is for the Series to go seven games,\" said David Williams, a Sacramento septuagenarian, at the Coliseum before Sunday's go",
+        "Connective": "for instance",
+        "DocID": "wsj_2202",
+        "ID": 35802,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "I'm for the Giants today, but only because they lost yesterday",
+        "Arg2": "I love 'em both",
+        "Connective": "in fact",
+        "DocID": "wsj_2202",
+        "ID": 35805,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "I love 'em both",
+        "Arg2": "The only thing I'm rooting for is for the Series to go seven games",
+        "Connective": "so",
+        "DocID": "wsj_2202",
+        "ID": 35806,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "although it probably springs from the fact that just about everyone out here, including the A's and Giants, is originally from somewhere else",
+        "Arg2": "Suffice it to say that if this were a New York Yankees-Mets series, or one between the Chicago Cubs and White Sox (hey, it's possible), you'd need uniformed police in every other seat to separate opposing fans",
+        "Connective": "however",
+        "DocID": "wsj_2202",
+        "ID": 35809,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Anyway, the A's gave you a lot of heroes to root for",
+        "Arg2": "In the opening game, besides Steinbach and Stewart, there was Walt Weiss, a twiggy-looking, second-year shortstop who had lost a couple months of the season to knee surgery",
+        "Connective": "for instance",
+        "DocID": "wsj_2202",
+        "ID": 35812,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "there was Walt Weiss, a twiggy-looking, second-year shortstop who had lost a couple months of the season to knee surgery",
+        "Arg2": "He was flawless afield (ditto in game two), moved a runner along in the A's three-run second inning, and homered for his team's final tally",
+        "Connective": "specifically",
+        "DocID": "wsj_2202",
+        "ID": 35813,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Such is his reputation among the East Bay Bashers that when he hit his first career home run last season, the fan who caught it agreed to turn the ball over to him in return for an autograph",
+        "Arg2": "Not his autograph",
+        "Connective": "but",
+        "DocID": "wsj_2202",
+        "ID": 35816,
+        "Sense": "Comparison.Concession"
+    },
+    {
+        "Arg1": "An A's co-hero of the second game was Rickey Henderson, who exemplifies the hot side of the hot-cold equation",
+        "Arg2": "He smoked Toronto in the playoffs with six hits, seven walks and eight stolen bases in 22 at bats, and continued that by going 3-for-3 at the plate Sunday, along with walking, stealing a base and scoring a run",
+        "Connective": "specifically",
+        "DocID": "wsj_2202",
+        "ID": 35817,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "He smoked Toronto in the playoffs with six hits, seven walks and eight stolen bases in 22 at bats, and continued that by going 3-for-3 at the plate Sunday, along with walking, stealing a base and scoring a run",
+        "Arg2": "When you're in the groove, you see every ball tremendously",
+        "Connective": "indeed",
+        "DocID": "wsj_2202",
+        "ID": 35818,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "They combined for 25 hits, six home runs and 24 runs batted in in the five games against the Cubs",
+        "Arg2": "They went a collective 5-for-24 here, with zero homers and ribbies",
+        "Connective": "by contrast",
+        "DocID": "wsj_2202",
+        "ID": 35821,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "It's that last set of numbers, as much as anything else, that gives the Giants hope in the Series games to come",
+        "Arg2": "I believe in the law of averages",
+        "Connective": "because",
+        "DocID": "wsj_2202",
+        "ID": 35822,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "I believe in the law of averages",
+        "Arg2": "I'd rather see a so-so hitter who's hot come up for the other side than a good hitter who's cold",
+        "Connective": "accordingly",
+        "DocID": "wsj_2202",
+        "ID": 35823,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "But the old Dodger slugger wisely offered no prediction about when good times would return to his side",
+        "Arg2": "When it goes, you never know when you'll get it back,\" he said",
+        "Connective": "rather",
+        "DocID": "wsj_2202",
+        "ID": 35825,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "When it goes, you never know when you'll get it back",
+        "Arg2": "That's baseball",
+        "Connective": "in short",
+        "DocID": "wsj_2202",
+        "ID": 35827,
+        "Sense": "Expansion"
+    },
+    {
+        "Arg1": "But per-share profit dropped only 2% to $1.23 a share from $1.26 a share, as the company continued its stock buy-back plan",
+        "Arg2": "Average shares outstanding dropped to 75.8 million from 82.1 million",
+        "Connective": "and",
+        "DocID": "wsj_2203",
+        "ID": 35830,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Average shares outstanding dropped to 75.8 million from 82.1 million",
+        "Arg2": "Revenue fell 1% to $1.39 billion from $1.41 billion",
+        "Connective": "and",
+        "DocID": "wsj_2203",
+        "ID": 35831,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Mr. Hingorani said he lowered his full-year estimates for 1989 to $5.35 a share from $5.50 a share",
+        "Arg2": "Revenue projections were slashed to $6.03 billion from $6.20 billion",
+        "Connective": "similarly",
+        "DocID": "wsj_2203",
+        "ID": 35837,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "he lowered his full-year estimates for 1989 to $5.35 a share from $5.50 a share.Revenue projections were slashed to $6.03 billion from $6.20 billion",
+        "Arg2": "Last year, NCR had net income of $439.3 million, or $5.33 a share, on $5.99 billion in revenue",
+        "Connective": "by comparison",
+        "DocID": "wsj_2203",
+        "ID": 35838,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "For the nine months, the company's earnings fell 9% to $264.6 million, or $3.40 a share, from $289.7 million, or $3.49 a share",
+        "Arg2": "Revenues declined 1% to $4.17 billion from $4.19 billion",
+        "Connective": "and",
+        "DocID": "wsj_2203",
+        "ID": 35839,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "but then he had been up most of the night at home",
+        "Arg2": "I had calls all night long from the States",
+        "Connective": "because",
+        "DocID": "wsj_2205",
+        "ID": 35845,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "I had calls all night long from the States",
+        "Arg2": "I was woken up every hour -- 1:30, 2:30, 3:30, 4:30",
+        "Connective": "in fact",
+        "DocID": "wsj_2205",
+        "ID": 35846,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "For many of London's securities traders, it was a day that started nervously in the small hours",
+        "Arg2": "By lunchtime, the selling was at near-panic fever",
+        "Connective": "then",
+        "DocID": "wsj_2205",
+        "ID": 35849,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "And it left mixed signals for London",
+        "Arg2": "Tokyo stocks closed off a significant but less-than-alarming 1.8% on thin volume; Hong Kong stocks declined 6.5% in orderly trading",
+        "Connective": "specifically",
+        "DocID": "wsj_2205",
+        "ID": 35856,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Tokyo stocks closed off a significant but less-than-alarming 1.8% on thin volume",
+        "Arg2": "Hong Kong stocks declined 6.5% in orderly trading",
+        "Connective": "whereas",
+        "DocID": "wsj_2205",
+        "ID": 35857,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The Jefferies office, a branch of the Los Angeles-based firm, played it conservatively, seeking to avoid risk",
+        "Arg2": "This is not the sort of market to have a big position in",
+        "Connective": "because",
+        "DocID": "wsj_2205",
+        "ID": 35862,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "This is not the sort of market to have a big position in",
+        "Arg2": "We tend to run a very tight book",
+        "Connective": "because",
+        "DocID": "wsj_2205",
+        "ID": 35863,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "All the takeover stocks -- Scottish & Newcastle, B.A.T, DRG -- are getting pretty well pasted this morning,\" Mr. Smith said",
+        "Arg2": "Seconds later, a 7,500-share \"sell\" order for Scottish & Newcastle came in",
+        "Connective": "then",
+        "DocID": "wsj_2205",
+        "ID": 35866,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Seconds later, a 7,500-share \"sell\" order for Scottish & Newcastle came in",
+        "Arg2": "For the third time in 15 minutes, a trader next to Mr. Smith left the no-smoking area to have a cigarette",
+        "Connective": "as a result",
+        "DocID": "wsj_2205",
+        "ID": 35867,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Because Tokyo didn't collapse, let's pick up a little stock,\" Mr. Smith said",
+        "Arg2": "He targeted 7,500 shares of Reuters and punched a button to call up on his screen other dealers' price quotes",
+        "Connective": "then",
+        "DocID": "wsj_2205",
+        "ID": 35871,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "He targeted 7,500 shares of Reuters and punched a button to call up on his screen other dealers' price quotes",
+        "Arg2": "The vivid yellow figures showed the best price at 845 pence, ($13.27) and Mr. Smith's traders started putting out feelers",
+        "Connective": "then",
+        "DocID": "wsj_2205",
+        "ID": 35872,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "When I want to buy, they run from you -- they keep changing their prices",
+        "Arg2": "It's very frustrating",
+        "Connective": "so",
+        "DocID": "wsj_2205",
+        "ID": 35877,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "It's very frustrating",
+        "Arg2": "He temporarily abandoned his search for the Reuters shares",
+        "Connective": "so",
+        "DocID": "wsj_2205",
+        "ID": 35878,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "He was right",
+        "Arg2": "By midday, the London market was in full retreat",
+        "Connective": "as",
+        "DocID": "wsj_2205",
+        "ID": 35880,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "By midday, the London market was in full retreat",
+        "Arg2": "It's falling like a stone",
+        "Connective": "in other words",
+        "DocID": "wsj_2205",
+        "ID": 35881,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "It's falling like a stone",
+        "Arg2": "Only half the usual lunchtime crowd gathered at the tony Corney & Barrow wine bar on Old Broad Street nearby",
+        "Connective": "so",
+        "DocID": "wsj_2205",
+        "ID": 35882,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Only half the usual lunchtime crowd gathered at the tony Corney & Barrow wine bar on Old Broad Street nearby",
+        "Arg2": "Conversation was subdued as most patrons watched the latest market statistics on television",
+        "Connective": "and",
+        "DocID": "wsj_2205",
+        "ID": 35883,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "France opened the limit down, off at least 10% if you could calculate the index",
+        "Arg2": "Spain is down 10% and suspended, Sweden's down 8%, Norway 11%",
+        "Connective": "similarly",
+        "DocID": "wsj_2205",
+        "ID": 35887,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Spain is down 10% and suspended, Sweden's down 8%, Norway 11%",
+        "Arg2": "This market has been very badly damaged",
+        "Connective": "on the whole",
+        "DocID": "wsj_2205",
+        "ID": 35888,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "In the center of the trading floor, chief trader Roger Streeter and two colleagues scrambled for the telephones as soon as the New York market opened -- plummeting more than 60 points in the first few minutes",
+        "Arg2": "They saw an opportunity created by the sell-off",
+        "Connective": "because",
+        "DocID": "wsj_2205",
+        "ID": 35891,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "They saw an opportunity created by the sell-off",
+        "Arg2": "As Wall Street traders dumped American Depositary Receipts in Jaguar PLC, Mr. Streeter and trader Sam Ruiz bought them to resell in the U.K",
+        "Connective": "specifically",
+        "DocID": "wsj_2205",
+        "ID": 35892,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "As Wall Street traders dumped American Depositary Receipts in Jaguar PLC, Mr. Streeter and trader Sam Ruiz bought them to resell in the U.K",
+        "Arg2": "Investors here still expect Ford Motor Co. or General Motors Corp. to bid for Jaguar",
+        "Connective": "because",
+        "DocID": "wsj_2205",
+        "ID": 35894,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "As Wall Street strengthened, the London trading room went wild",
+        "Arg2": "Traders shouted as their screens posted an ever-narrowing loss on Wall Street",
+        "Connective": "and",
+        "DocID": "wsj_2205",
+        "ID": 35898,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "As the London market rallied, some wondered whether the weekend of worrying and jitters had been worth it",
+        "Arg2": "The London index closed at 2163.4, its high for the day, off 70.5, or about 3.3%",
+        "Connective": "as",
+        "DocID": "wsj_2205",
+        "ID": 35904,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The measure drew criticism from the Bush administration and a parting shot from financier Donald Trump",
+        "Arg2": "In a letter to subcommittee Chairman James Oberstar (D., Minn.), Mr. Trump criticized the bill as an explicit effort to thwart his bid for AMR, and said it contributed to the collapse of the deal",
+        "Connective": "in particular",
+        "DocID": "wsj_2207",
+        "ID": 35909,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "the withdrawal of the Trump bid for AMR isn't likely to deflate efforts to push the legislation",
+        "Arg2": "It's still on the fast track and we still want to do it",
+        "Connective": "on the contrary",
+        "DocID": "wsj_2207",
+        "ID": 35913,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The bill would allow the secretary to reject a buy-out if sufficient information hasn't been provided, or if the buy-out is likely to weaken the carrier financially, result in a substantial reduction in size of the airline through disposal of assets, or give control to a foreign interest",
+        "Arg2": "If more information is needed, the secretary would have authority to extend the review period 20 days",
+        "Connective": "also",
+        "DocID": "wsj_2207",
+        "ID": 35923,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It could be a long meeting or it could be a short one",
+        "Arg2": "We're encouraged that talks are scheduled again but beyond that, we have made no expression of expectations",
+        "Connective": "that is",
+        "DocID": "wsj_2208",
+        "ID": 35927,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "And at the company's Wichita, Kan., plant, about 2,400 of the 11,700 machinists still are working",
+        "Arg2": "Under Kansas right-to-work laws, contracts cannot require workers to be union members",
+        "Connective": "because",
+        "DocID": "wsj_2208",
+        "ID": 35932,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Dataproducts announced a restructuring plan in September",
+        "Arg2": "The company's restructuring includes plans to split into three sectors, to phase out domestic printer manufacturing operations and to sell its New England subsidiary",
+        "Connective": "specifically",
+        "DocID": "wsj_2209",
+        "ID": 35936,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The company's restructuring includes plans to split into three sectors, to phase out domestic printer manufacturing operations and to sell its New England subsidiary",
+        "Arg2": "As part of the plan, Dataproducts announced a pact to sell $63 million of its real estate holdings to Trizec Properties Inc., a unit of Canada's Trizec Corp",
+        "Connective": "also",
+        "DocID": "wsj_2209",
+        "ID": 35938,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Jack Davis, Dataproducts' president, chairman and chief executive officer, said the company \"is at a loss to understand DPC's intentions",
+        "Arg2": "He called today's announcement \"opportunistic and disruptive",
+        "Connective": "in addition",
+        "DocID": "wsj_2209",
+        "ID": 35939,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "In my view, the stock market will stabilize relatively quickly",
+        "Arg2": "There may be one or other psychological or technical reactions, but they aren't based on fundamentals",
+        "Connective": "because",
+        "DocID": "wsj_2210",
+        "ID": 35944,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "but they aren't based on fundamentals",
+        "Arg2": "The economy of West Germany and the EC {European Community} is highly stable",
+        "Connective": "in short",
+        "DocID": "wsj_2210",
+        "ID": 35946,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Paris also was hard hit",
+        "Arg2": "Share prices fell in Milan, Amsterdam, Zurich, Madrid and Stockholm",
+        "Connective": "similarly",
+        "DocID": "wsj_2210",
+        "ID": 35948,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "One of the sharpest declines came in the financial center of Europe's strongest economy",
+        "Arg2": "The DAX Index of 30 West German blue chips plunged 12.8%, a one-day record, wiping out the summer's gains",
+        "Connective": "specifically",
+        "DocID": "wsj_2210",
+        "ID": 35950,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The DAX Index of 30 West German blue chips plunged 12.8%, a one-day record, wiping out the summer's gains",
+        "Arg2": "The index closed at 1385.72, down 203.56 points",
+        "Connective": "subsequently",
+        "DocID": "wsj_2210",
+        "ID": 35951,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "This time, however, many small investors may have been hurt by acting so swiftly",
+        "Arg2": "They all went in the wrong direction",
+        "Connective": "since",
+        "DocID": "wsj_2210",
+        "ID": 35956,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "They all went in the wrong direction",
+        "Arg2": "he told clients to buy selected West German blue chips after they fell by about 10%",
+        "Connective": "by contrast",
+        "DocID": "wsj_2210",
+        "ID": 35957,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The beginning was chaotic",
+        "Arg2": "It took three-quarters of an hour before enough prices could be worked out to get a reading on the market",
+        "Connective": "specifically",
+        "DocID": "wsj_2210",
+        "ID": 35961,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Institutional investors and bankers were cautiously optimistic after the mild 1.8% decline in Tokyo stock prices",
+        "Arg2": "Everybody was still confident, including most institutional investors",
+        "Connective": "indeed",
+        "DocID": "wsj_2210",
+        "ID": 35963,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "It was big institutions such as Norwich Union Insurance Group, Scottish Amicable Investment Managers and Standard Life Assurance Co. that spearheaded the rally",
+        "Arg2": "Attracted by low prices and encouraged by New York's performance, they scooped up equities across the board",
+        "Connective": "as",
+        "DocID": "wsj_2210",
+        "ID": 35973,
+        "Sense": "Temporal.Synchrony"
+    },
+    {
+        "Arg1": "Late buying gave the Paris Bourse a parachute after its free fall early in the day",
+        "Arg2": "The CAC General Index ended down 5.4% at 523.6, a drop of 29.6 points from Friday",
+        "Connective": "ultimately",
+        "DocID": "wsj_2210",
+        "ID": 35974,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "There was a volatility in the market that I have never seen before",
+        "Arg2": "When Wall Street turned around shortly after the opening, there was panic buying in Paris",
+        "Connective": "for instance",
+        "DocID": "wsj_2210",
+        "ID": 35975,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The latest quarter's loss equals $9.92 a share",
+        "Arg2": "In the year-earlier quarter, Morgan earned $233.6 million, or $1.25 a share",
+        "Connective": "by comparison",
+        "DocID": "wsj_2211",
+        "ID": 35983,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Net interest income sank 27% in the quarter to $254 million from $347 million",
+        "Arg2": "The interest rate on short-term funds was \"sharply higher",
+        "Connective": "as",
+        "DocID": "wsj_2211",
+        "ID": 35985,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Morgan received $2 million of interest payments on its medium and long-term Brazilian loans",
+        "Arg2": "had they been accruing interest, net interest income would have been $35 million higher in the quarter",
+        "Connective": "but",
+        "DocID": "wsj_2211",
+        "ID": 35986,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Income from sources other than interest climbed 12% to $414 million",
+        "Arg2": "These increases were partly offset by lower trading-related\" income",
+        "Connective": "however",
+        "DocID": "wsj_2211",
+        "ID": 35988,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "These increases were partly offset by lower trading-related\" income",
+        "Arg2": "Non-interest expenses grew 16% to $496 million",
+        "Connective": "also",
+        "DocID": "wsj_2211",
+        "ID": 35989,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The Charlotte, N.C., company said earnings rose to $143.6 million, or $1.45 a share, from $58.9 million, or 69 cents a share, a year earlier",
+        "Arg2": "The latest quarter included a gain of $56.1 million, or 59 cents a share, related to the purchase of the remaining 51% of NCNB Texas National Bank from the Federal Deposit Insurance Corp",
+        "Connective": "in particular",
+        "DocID": "wsj_2211",
+        "ID": 35990,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The strong performance, however, contrasted with an unexpectedly large increase in the size of NCNB's problem loans, particularly in the Southeast",
+        "Arg2": "In the third quarter, nonperforming assets jumped to $474.1 million, or 1.43% of net loans and leases, from $232.8 million, or 1.13% in the second quarter",
+        "Connective": "in particular",
+        "DocID": "wsj_2211",
+        "ID": 35992,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "In the third quarter, nonperforming assets jumped to $474.1 million, or 1.43% of net loans and leases, from $232.8 million, or 1.13% in the second quarter",
+        "Arg2": "Nonperformers totaled $230.8 million, or 1.27% in the year-ago third quarter",
+        "Connective": "by comparison",
+        "DocID": "wsj_2211",
+        "ID": 35993,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "and to acquire several small failed thrifts to fill out its regional franchise",
+        "Arg2": "it purchased both Freedom Savings & Loan Association, Tampa, Fla., and University Federal Savings Association of San Antonio, Texas, for $169.4 million",
+        "Connective": "for instance",
+        "DocID": "wsj_2211",
+        "ID": 36000,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Security Pacific's loan-loss provision was down 22%, or $30.4 million, because it added to its foreign-debt reserve the year before",
+        "Arg2": "Non-interest income fell 6% in the quarter, mainly because of an unusual gain a year earlier from the sale of Hong Kong banking operations",
+        "Connective": "and",
+        "DocID": "wsj_2211",
+        "ID": 36008,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The new offer, which seeks 50.3% of the cellular and broadcasting concern, is for $125 a share for 22 million LIN shares",
+        "Arg2": "McCaw's revised tender offer would require McCaw to begin an auction process in July 1994 that would buy out remaining holders at a per-share price roughly equivalent to what a third party might then have to pay for all of LIN",
+        "Connective": "further",
+        "DocID": "wsj_2212",
+        "ID": 36010,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "LIN is asking McCaw to clarify its tender offer, which challenges an agreement between BellSouth Corp. and LIN to merge their cellular-telephone businesses",
+        "Arg2": "BellSouth has notified LIN that it would \"shortly respond to the McCaw proposal in as full and effective a manner as is warranted",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2212",
+        "ID": 36011,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "holders may be misled by the provision in the McCaw proposal that \"guarantees\" private market value after five years for the remaining shares",
+        "Arg2": "McCaw has \"no obligation to purchase and the definition of private market value is uncertain",
+        "Connective": "because",
+        "DocID": "wsj_2212",
+        "ID": 36012,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "McCaw has \"no obligation to purchase and the definition of private market value is uncertain",
+        "Arg2": "that McCaw would be able to control LIN's operations and could, \"therefore, operate LIN in a manner which could diminish its private market value and attractiveness to a third-party purchaser in five years",
+        "Connective": "furthermore",
+        "DocID": "wsj_2212",
+        "ID": 36014,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Dow Jones, publisher of The Wall Street Journal, has launched an $18-a-share, or $576 million, tender offer to acquire the remaining Telerate shares outstanding; Dow Jones owns 67% of Telerate",
+        "Arg2": "Telerate has rejected the offer, which expires Nov. 3",
+        "Connective": "however",
+        "DocID": "wsj_2213",
+        "ID": 36019,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "that the dispute-settlement panel rejected this Canadian government argument",
+        "Arg2": "We fully expect that Canada will comply with the panel's ruling\" that the \"landing requirement\" also must be ended",
+        "Connective": "in addition",
+        "DocID": "wsj_2214",
+        "ID": 36025,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "the U.S. won't accept any delays after Nov. 13 because U.S. fish-processing firms enter into contracts in the fall to purchase the next season's catch",
+        "Arg2": "the Canadian restrictions must be removed before such contracts are concluded",
+        "Connective": "so",
+        "DocID": "wsj_2214",
+        "ID": 36029,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "The FDIC will continue to maintain $90 million in preferred stock in the Tulsa bank unit",
+        "Arg2": "In exchange for the other $40 million, the FDIC will receive additional warrants entitling it to buy 60% of BancOklahoma's common stock outstanding",
+        "Connective": "in addition",
+        "DocID": "wsj_2216",
+        "ID": 36032,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "it is making the offer to shrink its capital and increase shareholder value",
+        "Arg2": "If all the bondholders and holders of one million common shares accept the offer, BSN will increase its debt by $9 million, but it also will recognize a $2 million gain from retiring the old debt",
+        "Connective": "in particular",
+        "DocID": "wsj_2218",
+        "ID": 36040,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "If all the bondholders and holders of one million common shares accept the offer, BSN will increase its debt by $9 million",
+        "Arg2": "We have sufficient cash flow to handle that",
+        "Connective": "however",
+        "DocID": "wsj_2218",
+        "ID": 36044,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "At Merrill Lynch, third-period net was $41 million, or 34 cents a share, down from $65.6 million, or 58 cents a share, a year ago",
+        "Arg2": "Total revenue reached $2.83 billion, up 10% from $2.57 billion",
+        "Connective": "and",
+        "DocID": "wsj_2219",
+        "ID": 36047,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Merrill Lynch's commission revenue grew 21%, however, to $462.8 million, on higher share prices and volume and on strong sales of mutual funds",
+        "Arg2": "Revenue derived from interest and dividends jumped 30% to $1.4 billion",
+        "Connective": "and",
+        "DocID": "wsj_2219",
+        "ID": 36050,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Merrill Lynch's commission revenue grew 21%, however, to $462.8 million, on higher share prices and volume and on strong sales of mutual funds.Revenue derived from interest and dividends jumped 30% to $1.4 billion",
+        "Arg2": "Asset-management fee revenue grew 12% to $151 million",
+        "Connective": "and",
+        "DocID": "wsj_2219",
+        "ID": 36051,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Bear Stearns said net in the first quarter ended Sept. 29 reached $22.1 million, or 23 cents a share, from $20.5 million, or 20 cents a share, in the year-earlier quarter",
+        "Arg2": "Gross revenue rose 21% to $580.4 million from $478.9 million",
+        "Connective": "and",
+        "DocID": "wsj_2219",
+        "ID": 36053,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Profit from trading for its own account dropped",
+        "Arg2": "Investment banking revenue climbed 25%, while commission revenue advanced 31% on a stronger retail market",
+        "Connective": "however",
+        "DocID": "wsj_2219",
+        "ID": 36054,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Separately, PaineWebber posted net income for the third quarter of $16.8 million, or 41 cents a share",
+        "Arg2": "Retail profit surged, but the company said it was only a \"modest contributor\" to third-quarter results",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2219",
+        "ID": 36058,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "A year ago, net at the New York investment banking firm was $20.9 million, or 50 cents a share, including a special pretax gain of $46.3 million from the sale of the company's interest in National Car Rental Systems Inc",
+        "Arg2": "Revenue was $444.9 million, including net interest, down slightly from $450.7 million",
+        "Connective": "and",
+        "DocID": "wsj_2219",
+        "ID": 36060,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Individual investors, investment firms and arbitragers who speculate in the stocks of takeover candidates can suffer liquidity and payment problems when stocks dive",
+        "Arg2": "those investors often borrow heavily to buy their holdings and use the stocks as collateral for loans",
+        "Connective": "because",
+        "DocID": "wsj_2221",
+        "ID": 36062,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "but it's been very quiet",
+        "Arg2": "Now, as for tomorrow, hell, who knows",
+        "Connective": "but",
+        "DocID": "wsj_2221",
+        "ID": 36067,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "After the 1987 plunge, markets agreed that it would be wise to halt trading whenever panic conditions arose",
+        "Arg2": "The New York Stock Exchange adopted two specific circuit breakers: If the Dow Jones index falls 250 points in a day, the exchange will halt trading for one hour; if the decline hits 400 points, the exchange will close for an additional two hours",
+        "Connective": "for instance",
+        "DocID": "wsj_2222",
+        "ID": 36070,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The New York Stock Exchange adopted two specific circuit breakers",
+        "Arg2": "If the Dow Jones index falls 250 points in a day, the exchange will halt trading for one hour",
+        "Connective": "first",
+        "DocID": "wsj_2222",
+        "ID": 36071,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "If the Dow Jones index falls 250 points in a day, the exchange will halt trading for one hour",
+        "Arg2": "if the decline hits 400 points, the exchange will close for an additional two hours",
+        "Connective": "second",
+        "DocID": "wsj_2222",
+        "ID": 36073,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It is impossible to know whether that theory is realistic",
+        "Arg2": "A temporary cessation of trading may indeed discourage a selling panic from feeding on itself.But there is also the possibility that shutting down markets will intensify fears and cause an even more abrupt slide in prices",
+        "Connective": "because",
+        "DocID": "wsj_2222",
+        "ID": 36076,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "What happened Friday was the worst of all worlds",
+        "Arg2": "The futures exchanges followed their own pre-set circuit breakers and shut down at about 3 p.m. for 30 minutes, after the Standard & Poor's 500 stock index had fallen 12 points, or about 100 points on the Dow Jones index.Options markets stopped trading in many securities.The New York Stock Exchange, under its own rules, remained open.With nowhere else to go, sellers, and particularly program traders, focused all their selling on the New York Stock Exchange.As liquidity on that market weakened, prices fell sharply",
+        "Connective": "specifically",
+        "DocID": "wsj_2222",
+        "ID": 36080,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Options markets stopped trading in many securities",
+        "Arg2": "The New York Stock Exchange, under its own rules, remained open",
+        "Connective": "however",
+        "DocID": "wsj_2222",
+        "ID": 36083,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "With nowhere else to go, sellers, and particularly program traders, focused all their selling on the New York Stock Exchange",
+        "Arg2": "As liquidity on that market weakened, prices fell sharply",
+        "Connective": "subsequently",
+        "DocID": "wsj_2222",
+        "ID": 36084,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "It is time to recognize that the New York Stock Exchange, the futures markets and the options markets, though physically separate, have actually become so closely intertwined as to constitute one market effectively",
+        "Arg2": "Traders can vary their strategies and execute their orders in any one of them",
+        "Connective": "as",
+        "DocID": "wsj_2222",
+        "ID": 36092,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "It therefore makes no sense for each market to adopt different circuit breakers",
+        "Arg2": "To achieve maximum liquidity and minimize price volatility, either all markets should be open to trading or none",
+        "Connective": "instead",
+        "DocID": "wsj_2222",
+        "ID": 36094,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Synchronized circuit breakers would not have halted the slide in prices on Friday, but they probably would have made for smoother, less volatile executions",
+        "Arg2": "It's time for the exchanges and the Securities and Exchange Commission to agree on joint conditions for halting trading or staying open",
+        "Connective": "so",
+        "DocID": "wsj_2222",
+        "ID": 36096,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "It's time for the exchanges and the Securities and Exchange Commission to agree on joint conditions for halting trading or staying open",
+        "Arg2": "Let's not have one market shut down for 30 minutes when the Dow declines 100 points and another shut down for an hour after a 250-point decline",
+        "Connective": "because",
+        "DocID": "wsj_2222",
+        "ID": 36097,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The rules should be established by agreement of the officials of all affected exchanges acting under the oversight and with the approval of the government regulatory agencies",
+        "Arg2": "Should the SEC and the Commodities Futures Trading Commission (which, with the SEC, regulates the Chicago stock-index markets) be unable to agree, the issue may have to be resolved by decision of the Treasury secretary",
+        "Connective": "but",
+        "DocID": "wsj_2222",
+        "ID": 36104,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "In many ways, our financial markets are better prepared today to handle a decline than they were two years ago",
+        "Arg2": "The New York Stock Exchange now has the capacity to handle a volume of nearly a billion shares a day",
+        "Connective": "for instance",
+        "DocID": "wsj_2222",
+        "ID": 36105,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The New York Stock Exchange now has the capacity to handle a volume of nearly a billion shares a day",
+        "Arg2": "Telephone service has been improved for customers trying to reach their brokers, and specialists have larger capital positions",
+        "Connective": "in addition",
+        "DocID": "wsj_2222",
+        "ID": 36106,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "and specialists -- who I believe should stay, despite the urgings of some post-crash critics -- have larger capital positions",
+        "Arg2": "Of course, specialists' actions alone can never prevent a major crack in stock prices",
+        "Connective": "although",
+        "DocID": "wsj_2222",
+        "ID": 36108,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Of course, specialists' actions alone can never prevent a major crack in stock prices",
+        "Arg2": "Witness the fact that trading in some stocks closed early Friday and opened late Monday because of an excess of sell orders",
+        "Connective": "for instance",
+        "DocID": "wsj_2222",
+        "ID": 36109,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "unions also won't like plant relocations and needed restructuring, which means layoffs",
+        "Arg2": "Many employers have already begun moving to southern countries such as Spain and Italy, where wages are low and unions are weaker",
+        "Connective": "as a result",
+        "DocID": "wsj_2223",
+        "ID": 36114,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Many employers have already begun moving to southern countries such as Spain and Italy",
+        "Arg2": "demand for trained labor and managers will rise there",
+        "Connective": "as a result",
+        "DocID": "wsj_2223",
+        "ID": 36116,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "More taunting in the parking lot led to a fight",
+        "Arg2": "he was punched and kicked by one player and that the other broke his jaw with a baseball bat",
+        "Connective": "in particular",
+        "DocID": "wsj_2223",
+        "ID": 36120,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "But it opposes an American Medical Association proposal for creating a \"registered care technologist,\" as \"potentially divisive",
+        "Arg2": "the job would entail an unwanted new doctor's \"bedside\" extension",
+        "Connective": "because",
+        "DocID": "wsj_2223",
+        "ID": 36125,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Many also use recruiting bonuses, tuition reimbursement, loan repayment or child-care help",
+        "Arg2": "Some give lump-sum incentives",
+        "Connective": "while",
+        "DocID": "wsj_2223",
+        "ID": 36127,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "TREATING EMPLOYEES with respect is crucial for managers",
+        "Arg2": "It's in their top five \"work values",
+        "Connective": "because",
+        "DocID": "wsj_2223",
+        "ID": 36128,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "It's in their top five \"work values",
+        "Arg2": "Fully 80% of employees who say their bosses treat them with respect, but only a third of those who don't feel respected say they're satisfied with where they work",
+        "Connective": "and",
+        "DocID": "wsj_2223",
+        "ID": 36129,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "CURBING WAGE BOOSTS will get high priority again in 1990 collective bargaining",
+        "Arg2": "Despite labor-shortage warnings, 80% aim for first-year wage increases of under 4%",
+        "Connective": "specifically",
+        "DocID": "wsj_2223",
+        "ID": 36131,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "TEMPORARY WORKERS have good educations",
+        "Arg2": "its survey of 2,508 such employees shows 82% with more than a high-school education, and 31% with college degrees",
+        "Connective": "in particular",
+        "DocID": "wsj_2223",
+        "ID": 36134,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "its survey of 2,508 such employees shows 82% with more than a high-school education, and 31% with college degrees",
+        "Arg2": "About 12% have retired from a full-time job, while 54% were asked to stay on full time",
+        "Connective": "also",
+        "DocID": "wsj_2223",
+        "ID": 36135,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "About 72% reimburse for all or some losses",
+        "Arg2": "Since 1984, more companies give sales-loss aid, as many real-estate values depreciated",
+        "Connective": "also",
+        "DocID": "wsj_2223",
+        "ID": 36141,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Since 1984, more companies give sales-loss aid",
+        "Arg2": "RJR Nabisco pays up to $30,000 of losses, including improvements",
+        "Connective": "for instance",
+        "DocID": "wsj_2223",
+        "ID": 36143,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "RJR Nabisco pays up to $30,000 of losses, including improvements",
+        "Arg2": "Goodrich won't ensure loss coverage, but will prevent a \"catastrophic loss",
+        "Connective": "by comparison",
+        "DocID": "wsj_2223",
+        "ID": 36144,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "but will prevent a \"catastrophic loss",
+        "Arg2": "it has given some employees the full purchase price when values fell from concern over dangers posed by a disposal site",
+        "Connective": "for instance",
+        "DocID": "wsj_2223",
+        "ID": 36145,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Goodrich won't ensure loss coverage, but will prevent a \"catastrophic loss\"; it has given some employees the full purchase price when values fell from concern over dangers posed by a disposal site",
+        "Arg2": "Federal Express, Dow Chemical, Ford and National City Corp. will buy the home or let the worker sell to an outside firm, but usually won't cover a loss",
+        "Connective": "by comparison",
+        "DocID": "wsj_2223",
+        "ID": 36147,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Big Board officials were self-congratulatory about how well the day had gone",
+        "Arg2": "They said the exchange's trading procedures, personnel, equipment and links with other exchanges couldn't have performed better",
+        "Connective": "specifically",
+        "DocID": "wsj_2224",
+        "ID": 36150,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "We had no operating problems at all",
+        "Arg2": "All the things that we set up to slow down the process worked extremely well",
+        "Connective": "indeed",
+        "DocID": "wsj_2224",
+        "ID": 36152,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Prices for the 416.3 million shares that changed hands during the session were carried on the exchange's trading tape with barely a delay",
+        "Arg2": "While reaching blockbuster proportions yesterday, the volume was still well within the 600 million-share capacity that the exchange has said it can handle daily since beefing up its computers after the October 1987 crash",
+        "Connective": "in fact",
+        "DocID": "wsj_2224",
+        "ID": 36153,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "the links with the Chicago futures market worked as planned in Friday's rout to provide a cooling-off period",
+        "Arg2": "Of greater help was the \"natural circuit breaker\" of the weekend",
+        "Connective": "however",
+        "DocID": "wsj_2224",
+        "ID": 36157,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The loss of more customers is the latest in a string of problems",
+        "Arg2": "Church's Fried Chicken Inc. and Popeye's Famous Fried Chicken Inc., which have merged, are still troubled by overlapping restaurant locations",
+        "Connective": "for instance",
+        "DocID": "wsj_2225",
+        "ID": 36159,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "A Kentucky Fried Chicken spokesman, however, disputed the notion that the delivery service experienced problems in some markets where testing has been discontinued",
+        "Arg2": "He says the test is continuing in Chicago, Columbus, Ohio, and a few other cities",
+        "Connective": "in fact",
+        "DocID": "wsj_2225",
+        "ID": 36165,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Kentucky Fried Chicken will post an 11% drop in 1989 net income",
+        "Arg2": "They've been laggard",
+        "Connective": "because",
+        "DocID": "wsj_2225",
+        "ID": 36167,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "CALL IT un-advertising",
+        "Arg2": "Pittsburgh consultant David Bear is selling a soft approach to clients who want exposure yet shun pushy ads",
+        "Connective": "specifically",
+        "DocID": "wsj_2225",
+        "ID": 36169,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "New un-advertisers include Burt Hill Kosar Rittlemann Associates, a Butler, Pa., architectural firm",
+        "Arg2": "Its radio series features such spots as \"Floodlights: Evening Wear for Urban Structures\" and \"Building a Place to Park",
+        "Connective": "specifically",
+        "DocID": "wsj_2225",
+        "ID": 36172,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "New un-advertisers include Burt Hill Kosar Rittlemann Associates, a Butler, Pa., architectural firm.Its radio series features such spots as \"Floodlights: Evening Wear for Urban Structures\" and \"Building a Place to Park",
+        "Arg2": "A harder sell would \"detract from the profession",
+        "Connective": "because",
+        "DocID": "wsj_2225",
+        "ID": 36173,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "But such spots can be too soft",
+        "Arg2": "There's always a risk of lost messages",
+        "Connective": "as",
+        "DocID": "wsj_2225",
+        "ID": 36176,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "There's always a risk of lost messages",
+        "Arg2": "It's a question of how much credibility you gain for the possible loss of recognition",
+        "Connective": "on the whole",
+        "DocID": "wsj_2225",
+        "ID": 36177,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "the chain is still reviewing its product list to avoid such problems",
+        "Arg2": "Our intent is to promote the best alternative",
+        "Connective": "as",
+        "DocID": "wsj_2225",
+        "ID": 36185,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "But in the end, customers' wishes are what will prevail",
+        "Arg2": "Big Bear doesn't care for disposable diapers, which aren't biodegradable.Yet parents demand them",
+        "Connective": "for instance",
+        "DocID": "wsj_2225",
+        "ID": 36188,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Yet parents demand them",
+        "Arg2": "We'll still be forced to sell items we might not philosophically agree with",
+        "Connective": "in short",
+        "DocID": "wsj_2225",
+        "ID": 36190,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "For the third year in a row, consumers voted Bill Cosby first and James Garner second in persuasiveness as spokesmen in TV commercials, according to Video Storyboard Tests, New York",
+        "Arg2": "Michael J. Fox replaced Bruce Willis in third place",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2225",
+        "ID": 36193,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "For the third year in a row, consumers voted Bill Cosby first and James Garner second in persuasiveness as spokesmen in TV commercials, according to Video Storyboard Tests, New York.Michael J. Fox replaced Bruce Willis in third place",
+        "Arg2": "Cher placed fourth for the second time",
+        "Connective": "and",
+        "DocID": "wsj_2225",
+        "ID": 36194,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Dr. Novello's office said she wouldn't talk with reporters, and it refused to release any information about her",
+        "Arg2": "The newsletter Medicine & Health, which first disclosed her selection by Dr. Sullivan, said she is 44 years old and she studied at the University of Puerto Rico School of Medicine",
+        "Connective": "however",
+        "DocID": "wsj_2226",
+        "ID": 36199,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The HUD budget has dropped by more than 70% since 1980",
+        "Arg2": "We've taken more than our fair share",
+        "Connective": "so",
+        "DocID": "wsj_2227",
+        "ID": 36204,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "But NAHB support for subsidies is not related to the current housing crunch",
+        "Arg2": "over the years the NAHB has backed a host of public programs",
+        "Connective": "in fact",
+        "DocID": "wsj_2227",
+        "ID": 36208,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "over the years the NAHB has backed a host of public programs",
+        "Arg2": "It once pushed for a national housing production goal set by the federal government and has regularly advanced anti-recession housing measures",
+        "Connective": "for instance",
+        "DocID": "wsj_2227",
+        "ID": 36209,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "It would like to peg the ceiling on Federal Housing Administration mortgage guarantees to 95% of the median price in a particular market, instead of limiting it to $101,250",
+        "Arg2": "reduce (or even eliminate) FHA down-payment requirements",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36211,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It would like to peg the ceiling on Federal Housing Administration mortgage guarantees to 95% of the median price in a particular market, instead of limiting it to $101,250; reduce (or even eliminate) FHA down-payment requirements and increase the availability of variable-rate mortgages",
+        "Arg2": "expand the Veterans Affairs Department loan guarantee program",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36212,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It would like to peg the ceiling on Federal Housing Administration mortgage guarantees to 95% of the median price in a particular market, instead of limiting it to $101,250; reduce (or even eliminate) FHA down-payment requirements and increase the availability of variable-rate mortgages; expand the Veterans Affairs Department loan guarantee program",
+        "Arg2": "provide \"adequate\" funding for the Farmers Home Administration (FmHA",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36213,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It would like to peg the ceiling on Federal Housing Administration mortgage guarantees to 95% of the median price in a particular market, instead of limiting it to $101,250; reduce (or even eliminate) FHA down-payment requirements and increase the availability of variable-rate mortgages; expand the Veterans Affairs Department loan guarantee program; provide \"adequate\" funding for the Farmers Home Administration (FmHA",
+        "Arg2": "increase federal funding and tax incentives for the construction of low-income and rental housing, including $4 billion in block grants to states and localities",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36214,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Direct federal subsidies for housing construction have proved intolerably expensive in the past, and inevitably are twisted to the benefit of well-connected developers and lobbyists, as demonstrated by the ongoing HUD scandal, or congressmen",
+        "Arg2": "Indirect subsidies, through the FHA, for instance, are little better",
+        "Connective": "however",
+        "DocID": "wsj_2227",
+        "ID": 36215,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "the mere diversion of funds from other parts of the economy and from other forms of housing (such as low-income) to the single-family home market would result in a major expense",
+        "Arg2": "More important, housing programs run by HUD, the VA, and FmHA are awash in red ink",
+        "Connective": "but",
+        "DocID": "wsj_2227",
+        "ID": 36217,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "More important, housing programs run by HUD, the VA, and FmHA are awash in red ink",
+        "Arg2": "The FHA alone lost $4.2 billion in fiscal 1988",
+        "Connective": "for instance",
+        "DocID": "wsj_2227",
+        "ID": 36218,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The FHA alone lost $4.2 billion in fiscal 1988",
+        "Arg2": "the government's equity in the agency, essentially its reserve fund, fell to minus $2.9 billion",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36219,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The FHA alone lost $4.2 billion in fiscal 1988; the government's equity in the agency, essentially its reserve fund, fell to minus $2.9 billion",
+        "Arg2": "The federal government has had to pump in $2.28 billion into the VA housing program since 1984 to keep the fund afloat and the VA requested an additional $120 million for the fiscal year just ended",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36220,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The FHA alone lost $4.2 billion in fiscal 1988; the government's equity in the agency, essentially its reserve fund, fell to minus $2.9 billion.The federal government has had to pump in $2.28 billion into the VA housing program since 1984 to keep the fund afloat and the VA requested an additional $120 million for the fiscal year just ended",
+        "Arg2": "All told, the federal government already guarantees more than $900 billion of mortgages",
+        "Connective": "and",
+        "DocID": "wsj_2227",
+        "ID": 36222,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "In its nicely produced publication \"Where Will Our Children Live?\" the NAHB does acknowledge that \"of course, the full measure of housing affordability cannot be provided by the federal government",
+        "Arg2": "It points to the pernicious impact of local government regulation, particularly zoning and building fees, which pushes the price of housing out of the reach of low- and middle-income people",
+        "Connective": "for instance",
+        "DocID": "wsj_2227",
+        "ID": 36223,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The association, a majority of whose 156,000 members build fewer than 25 units a year, is like many other business lobbies",
+        "Arg2": "It treads in two worlds",
+        "Connective": "that is",
+        "DocID": "wsj_2227",
+        "ID": 36226,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "It treads in two worlds",
+        "Arg2": "The builders like the subsidies, but at the same time they tend to be fiscal conservatives in terms of major issues, such as the balanced-budget amendment",
+        "Connective": "because",
+        "DocID": "wsj_2227",
+        "ID": 36227,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The builders like the subsidies, but at the same time they tend to be fiscal conservatives in terms of major issues, such as the balanced-budget amendment",
+        "Arg2": "Unfortunately, the organization's desire for pork tends to override its commitment to overall fiscal responsibility",
+        "Connective": "but",
+        "DocID": "wsj_2227",
+        "ID": 36229,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Unfortunately, the organization's desire for pork tends to override its commitment to overall fiscal responsibility",
+        "Arg2": "Two years ago when the NAHB lobbied for the $19 billion omnibus housing bill, the organization \"basically dropped out of the taxpayers' coalition",
+        "Connective": "for instance",
+        "DocID": "wsj_2227",
+        "ID": 36230,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Government is not going to solve the problem",
+        "Arg2": "The real key is to have the economy working and interest rates down",
+        "Connective": "rather",
+        "DocID": "wsj_2227",
+        "ID": 36232,
+        "Sense": "Expansion.Alternative.Chosen alternative"
+    },
+    {
+        "Arg1": "The real key is to have the economy working and interest rates down",
+        "Arg2": "More money for HUD will increase the deficit and destabilize the economy; more money to municipalities that are wrecking their local housing markets will further insulate them from the destructive effects of their policies",
+        "Connective": "as",
+        "DocID": "wsj_2227",
+        "ID": 36233,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "More money for HUD will increase the deficit and destabilize the economy; more money to municipalities that are wrecking their local housing markets will further insulate them from the destructive effects of their policies",
+        "Arg2": "Is this what the home builders want",
+        "Connective": "but",
+        "DocID": "wsj_2227",
+        "ID": 36234,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Setting a date to start treaty negotiations has no legal significance in itself, but could be viewed as an important psychological push",
+        "Arg2": "French President Francois Mitterrand fought to set a date for the conference during the EC summit in Madrid last June, but the move was scuttled because of opposition by Mrs. Thatcher and West German Chancellor Helmut Kohl",
+        "Connective": "consequently",
+        "DocID": "wsj_2228",
+        "ID": 36236,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "The latest crewcut in the equities markets reminds me of the joke T. Boone Pickens tells about the guy who was run over by the parade",
+        "Arg2": "When asked \"What went wrong?\" the unfortunate victim replied, \"It was a combination of things",
+        "Connective": "specifically",
+        "DocID": "wsj_2229",
+        "ID": 36238,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The ceremonies began Friday afternoon when word spread that the UAL buy-out was collapsing",
+        "Arg2": "Although the union-bidder expects to patch together a substitute offer, consisting of less cash, the failure to get cash from Japanese and American banks confirmed a growing fear among arbitragers that the pageant of high-leverage takeover deals is ending",
+        "Connective": "as",
+        "DocID": "wsj_2229",
+        "ID": 36243,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Deal stocks led the market down as they absorbed the heaviest losses",
+        "Arg2": "UAL opened Monday at $224, down about 20% from Thursday's close",
+        "Connective": "for instance",
+        "DocID": "wsj_2229",
+        "ID": 36251,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "UAL opened Monday at $224, down about 20% from Thursday's close",
+        "Arg2": "AMR opened Monday at $80, down nearly 20% from Thursday's close",
+        "Connective": "and",
+        "DocID": "wsj_2229",
+        "ID": 36252,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "UAL, which triggered the slide, opened Monday at $224, down about 20% from Thursday's close.AMR opened Monday at $80, down nearly 20% from Thursday's close",
+        "Arg2": "Both took further hits yesterday",
+        "Connective": "also",
+        "DocID": "wsj_2229",
+        "ID": 36253,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "UAL, which triggered the slide, opened Monday at $224, down about 20% from Thursday's close.AMR opened Monday at $80, down nearly 20% from Thursday's close. (Both took further hits yesterday.) Hilton lost 20% on Friday",
+        "Arg2": "Paramount lost almost 11%",
+        "Connective": "and",
+        "DocID": "wsj_2229",
+        "ID": 36254,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "A careful look reveals that where deal financing has been secured, the target's stock price was not affected on Friday",
+        "Arg2": "The multibillion-dollar prospects were where the damage was concentrated",
+        "Connective": "by contrast",
+        "DocID": "wsj_2229",
+        "ID": 36256,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The market for so-called junk bonds has been setting the stage for Friday's dramatic march for several weeks",
+        "Arg2": "The growing financial difficulties of recent high-leverage restructurings or takeovers, such as Resorts International, Integrated Resources, and Campeau's retailing empire, have cast a pall over the entire market for high-yield securities",
+        "Connective": "for instance",
+        "DocID": "wsj_2229",
+        "ID": 36257,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The growing financial difficulties of recent high-leverage restructurings or takeovers, such as Resorts International, Integrated Resources, and Campeau's retailing empire, have cast a pall over the entire market for high-yield securities",
+        "Arg2": "Investors have reacted by ignoring recent efforts to float junk bonds by Ohio Mattress and by forcing Ramada to postpone indefinitely its planned junk-bond sale and restructuring",
+        "Connective": "subsequently",
+        "DocID": "wsj_2229",
+        "ID": 36258,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "These are all market excesses (putting aside the artificial boosts that the tax code gives to debt over equity), and what we've seen is the market reining them in",
+        "Arg2": "Of course, Washington hadn't been silent in the days leading up to the debacle, and its tendency to meddle in the leverage equation remains a troublesome prospect, but those preliminary steps shouldn't distract us from the basic market fundamentalism that was at work on Friday",
+        "Connective": "in other words",
+        "DocID": "wsj_2229",
+        "ID": 36262,
+        "Sense": "Expansion"
+    },
+    {
+        "Arg1": "If it is correct to find that concerns over corporate debt and LBOs caused Gray Friday, what are the implications for policy makers",
+        "Arg2": "After all, the stock market's response to the collapse of the UAL deal might be taken to confirm the anti-debt direction of regulators",
+        "Connective": "because",
+        "DocID": "wsj_2229",
+        "ID": 36266,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "After all, the stock market's response to the collapse of the UAL deal might be taken to confirm the anti-debt direction of regulators",
+        "Arg2": "Is this a case where private markets are approving of Washington's bashing of Wall Street",
+        "Connective": "so",
+        "DocID": "wsj_2229",
+        "ID": 36267,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "that Wall Street and the private markets are fully capable of imposing the appropriate incentives and sanctions on corporate behavior",
+        "Arg2": "The national economic interests are much better served allowing the private interests of bankers and investors be the ultimate judges of the investment quality of various LBO deals and leveraged restructurings",
+        "Connective": "that is",
+        "DocID": "wsj_2229",
+        "ID": 36268,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The national economic interests are much better served allowing the private interests of bankers and investors be the ultimate judges of the investment quality of various LBO deals and leveraged restructurings",
+        "Arg2": "The recent difficulties in the junk-bond markets and the scarcity of bank capital for recent deals underscores the wisdom of letting the free markets operate",
+        "Connective": "indeed",
+        "DocID": "wsj_2229",
+        "ID": 36269,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "but they rode the tiger up all year",
+        "Arg2": "Not surprisingly, he sometimes bites",
+        "Connective": "but",
+        "DocID": "wsj_2229",
+        "ID": 36275,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "while the besieged managers of prospective targets cheered lustily",
+        "Arg2": "If you identify with the besieged managers, you must concede that speedy and effective relief from the excesses of the takeover market is more likely to come from the marketplace than from Washington",
+        "Connective": "but",
+        "DocID": "wsj_2229",
+        "ID": 36277,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "If you identify with the besieged managers, you must concede that speedy and effective relief from the excesses of the takeover market is more likely to come from the marketplace than from Washington",
+        "Arg2": "If you side with the arbitragers and raiders, you clearly have more to fear from private investors than from regulators",
+        "Connective": "by contrast",
+        "DocID": "wsj_2229",
+        "ID": 36279,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "actual legislation would probably impose considerable harm",
+        "Arg2": "Any such attempt to distinguish \"good debt\" from \"bad debt,\" or to draw the line at a particular industry is likely to blunt the spur that the proper amount of leverage provides both to equity markets and economic efficiency in general",
+        "Connective": "because",
+        "DocID": "wsj_2229",
+        "ID": 36284,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Tokyo share prices rebounded Tuesday morning, with the Nikkei index of 225 selected stocks rising 618.69 points to close the morning session at 35087.38",
+        "Arg2": "The index slid 647.33 points, or 1.8%, on Monday",
+        "Connective": "by comparison",
+        "DocID": "wsj_2230",
+        "ID": 36286,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "In the first 25 minutes of Tuesday's trading the Nikkei index soared 664.83 points, to 35133.83",
+        "Arg2": "By 10 a.m. Tokyo time, the index was up 435.11 points, to 34903.80 as investors hailed New York's overnight rally",
+        "Connective": "and",
+        "DocID": "wsj_2230",
+        "ID": 36287,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "as our policy now is to wait and see",
+        "Arg2": "We would like to wait and see until trading goes around through Europe and New York",
+        "Connective": "in other words",
+        "DocID": "wsj_2230",
+        "ID": 36298,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The market opened sharply lower, with the Nikkei average down nearly 600 after 20 minutes",
+        "Arg2": "A midmorning rebound brought it back to show a gain of about 200 at the end of the morning session",
+        "Connective": "then",
+        "DocID": "wsj_2230",
+        "ID": 36307,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "The smaller stocks in the Tokyo market's second section also posted their biggest decline of the year",
+        "Arg2": "The Tokyo Stock Exchange index for the second section fell 100.96, or 2.7%, to 3655.40",
+        "Connective": "specifically",
+        "DocID": "wsj_2230",
+        "ID": 36311,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "On Oct. 16, 1987 -- the Friday before the Black Monday crash -- the New York market dropped 4.6%, and Tokyo followed on Monday with a 2.4% drop",
+        "Arg2": "This time, Wall Street's plunge of 6.9% Friday was followed by yesterday's 1.8% loss in Tokyo",
+        "Connective": "whereas",
+        "DocID": "wsj_2230",
+        "ID": 36315,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Now we are looking for the time to place buy orders",
+        "Arg2": "For us institutional investors, the chance for buying has come",
+        "Connective": "in other words",
+        "DocID": "wsj_2230",
+        "ID": 36320,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Isao Ushikubo, general manager of the investment research department at Toyo Trust & Banking Co., also was optimistic",
+        "Arg2": "He described Friday's plunge in the U.S. as a \"fleeting\" event resulting in part from excessive merger and acquisition activity",
+        "Connective": "in particular",
+        "DocID": "wsj_2230",
+        "ID": 36322,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "this is the best time to buy",
+        "Arg2": "Those shares which had posted gains on M&A speculation were dashed with cold water, but as far as major stocks are concerned, there isn't much impact",
+        "Connective": "because",
+        "DocID": "wsj_2230",
+        "ID": 36324,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Other fund managers were similarly sanguine",
+        "Arg2": "We have no plans to adjust our asset allocation in foreign equities,\" said Masato Murakami, chief portfolio manager in the pension fund management department at Yasuda Trust & Banking Co",
+        "Connective": "for instance",
+        "DocID": "wsj_2230",
+        "ID": 36326,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "We have no plans to adjust our asset allocation in foreign equities",
+        "Arg2": "Friday's Wall Street decline was \"well within the range of volatility\" that Yasuda Trust plans for when it charts its overseas investment strategy",
+        "Connective": "since",
+        "DocID": "wsj_2230",
+        "ID": 36327,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Among other Asian and Pacific markets, Malaysia and Singapore had the biggest losses, with the Kuala Lumpur composite index in Malaysia falling 11.5% and Singapore's Straits Times Industrial Index down 10%",
+        "Arg2": "Major indexes declined more than 8% in Australia and New Zealand and 6.5% in Hong Kong",
+        "Connective": "similarly",
+        "DocID": "wsj_2230",
+        "ID": 36328,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Major indexes declined more than 8% in Australia and New Zealand and 6.5% in Hong Kong",
+        "Arg2": "Bangkok, Manila, Seoul, Taipei and Jakarta escaped with slightly smaller losses",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2230",
+        "ID": 36329,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It's pure psychology",
+        "Arg2": "Markets in this region aren't so geared to leveraged buy-outs, and their economies generally are in good shape, but there's no doubt that Asia is still following America's lead",
+        "Connective": "in other words",
+        "DocID": "wsj_2230",
+        "ID": 36331,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Singapore took the hit because when people want to get out, they tend to go where the liquidity is",
+        "Arg2": "that even after Monday's 10% decline, the Straits Times index is up 24% this year, so investors who bailed out generally did so profitably",
+        "Connective": "further",
+        "DocID": "wsj_2230",
+        "ID": 36340,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "In Hong Kong, the Hang Seng Index fell 180.60 to finish at 2601.70",
+        "Arg2": "Trading was heavy at about one billion shares, compared with 473.9 million Friday",
+        "Connective": "and",
+        "DocID": "wsj_2230",
+        "ID": 36343,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "but is close",
+        "Arg2": "If New York doesn't collapse, I see maybe another 5% on the downside",
+        "Connective": "that is",
+        "DocID": "wsj_2230",
+        "ID": 36345,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "London's Financial Times-Stock Exchange 100-share index, the most closely watched market barometer, ended at its intraday high of 2163.4, down 70.5, or 3.2%",
+        "Arg2": "At its low, shortly before Wall Street opened, it was off more than 130 points",
+        "Connective": "by contrast",
+        "DocID": "wsj_2230",
+        "ID": 36349,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The Financial Times 30-share index closed 79.3 points lower at 1738.7",
+        "Arg2": "Volume more than doubled to 959.3 million shares from 457.7 million Friday",
+        "Connective": "and",
+        "DocID": "wsj_2230",
+        "ID": 36351,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Prices on the Frankfurt Stock Exchange tumbled in heavy trading",
+        "Arg2": "The decline in the German Stock Index of 203.56 points, or 12.8%, to 1385.72 was the Frankfurt market's steepest fall ever",
+        "Connective": "in fact",
+        "DocID": "wsj_2230",
+        "ID": 36352,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Retail investors dumped holdings on a massive scale, pushing some blue-chip shares down as much as 20%",
+        "Arg2": "memories of two years ago, when many small investors held on to their shares after the October crash but the West German market continued to decline steeply for the next three months",
+        "Connective": "because",
+        "DocID": "wsj_2230",
+        "ID": 36353,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Frank Lloyd Wright is reported to have said once that if you tipped the world on its side, everything loose would end up in California",
+        "Arg2": "We've always thought that Mr. Wright underestimated California's vitality, but maybe the state's la-la factions are starting to overwhelm the forces that made it such a significant place",
+        "Connective": "but",
+        "DocID": "wsj_2231",
+        "ID": 36358,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "but maybe the state's la-la factions are starting to overwhelm the forces that made it such a significant place",
+        "Arg2": "What else is one to make of the whacky save-the-earth initiative just proposed by several major environmental groups and organized by the state's attorney general",
+        "Connective": "because",
+        "DocID": "wsj_2231",
+        "ID": 36360,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The initiative is based largely on the wish-lists of the green lobby: the Sierra Club, the League of Conservation Voters, the Natural Resources Defense Council, the National Toxics Campaign and the Citizens for a Better Environment",
+        "Arg2": "Interestingly, the Environmental Defense Fund is having nothing to do with this one",
+        "Connective": "although",
+        "DocID": "wsj_2231",
+        "ID": 36363,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Not only Californians but all Americans would pay if this thing passed",
+        "Arg2": "The initiative bars the sale of any crops in California that don't meet the initiative's standards",
+        "Connective": "because",
+        "DocID": "wsj_2231",
+        "ID": 36365,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The initiative bars the sale of any crops in California that don't meet the initiative's standards",
+        "Arg2": "Kansas wheat farmers and Florida fruit growers would have to adjust or give up the California market",
+        "Connective": "so",
+        "DocID": "wsj_2231",
+        "ID": 36366,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "As usual the green lobby's proposal is disconnected from scientific reality",
+        "Arg2": "Consider the greenhouse-effect provision",
+        "Connective": "for instance",
+        "DocID": "wsj_2231",
+        "ID": 36368,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Consider the greenhouse-effect provision",
+        "Arg2": "The proposed initiative would mandate a reduction of carbon dioxide of 40%",
+        "Connective": "specifically",
+        "DocID": "wsj_2231",
+        "ID": 36369,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The proposed initiative would mandate a reduction of carbon dioxide of 40%",
+        "Arg2": "Even if one buys into the whole greenhouse theory, it is inconceivable that reductions in a single state could have any impact on what is billed as a global problem",
+        "Connective": "but",
+        "DocID": "wsj_2231",
+        "ID": 36370,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The key here is the ambition of state Attorney General John Van de Kamp",
+        "Arg2": "He's running for governor",
+        "Connective": "in particular",
+        "DocID": "wsj_2231",
+        "ID": 36375,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "and cobbled them into a single unwieldy initiative to be placed on the ballot for election on Nov. 6, 1990",
+        "Arg2": "That's also the day of the gubernatorial election",
+        "Connective": "in fact",
+        "DocID": "wsj_2231",
+        "ID": 36376,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "And it allows Mr. Van de Kamp to get around campaign spending limits",
+        "Arg2": "He can spend the legal maximum for his campaign",
+        "Connective": "specifically",
+        "DocID": "wsj_2231",
+        "ID": 36378,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "He can spend the legal maximum for his campaign",
+        "Arg2": "all the spending for the Van de Kamp initiative is gravy",
+        "Connective": "while",
+        "DocID": "wsj_2231",
+        "ID": 36379,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "He can spend the legal maximum for his campaign; all the spending for the Van de Kamp initiative (on which there are no limits) is gravy",
+        "Arg2": "This initiative is being labeled The Big Green, but maybe it should be called The Big Greenback",
+        "Connective": "so",
+        "DocID": "wsj_2231",
+        "ID": 36380,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "This initiative is being labeled The Big Green, but maybe it should be called The Big Greenback",
+        "Arg2": "The Republican candidate, Sen. Pete Wilson, is playing the initiative fundraising game too, sponsoring his own crime initiative",
+        "Connective": "on the other hand",
+        "DocID": "wsj_2231",
+        "ID": 36382,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "it is of course conceivable that in modern California it could slide through",
+        "Arg2": "This is the state that recently passed the Prop. 65 anti-toxic initiative",
+        "Connective": "since",
+        "DocID": "wsj_2231",
+        "ID": 36384,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "That means the NRDC and such groups no longer would have to spend as much money on litigation",
+        "Arg2": "taxpayers would bear the cost",
+        "Connective": "instead",
+        "DocID": "wsj_2231",
+        "ID": 36388,
+        "Sense": "Expansion.Alternative.Chosen alternative"
+    },
+    {
+        "Arg1": "Mr. Van de Kamp and his allies may be hoping that the environment is such a mom and apple-pie issue among certain segments of California's population now that almost any collection of anti-scientific, anti-pocketbook nonsense can pass under its rubric",
+        "Arg2": "Of course the state's liberals are not yet a nation unto themselves",
+        "Connective": "but",
+        "DocID": "wsj_2231",
+        "ID": 36390,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Spurred by waves of large-scale buying in blue-chip stocks, the Dow Jones Industrial Average rallied yesterday and erased about a half of Friday's 190.58-point plunge, gaining 88.12 to 2657.38",
+        "Arg2": "It was the fourth-biggest advance for the average of 30 blue chips, on frenetic New York Stock Exchange volume of 416,290,000 shares -- the highest since the days after the 1987 crash",
+        "Connective": "indeed",
+        "DocID": "wsj_2232",
+        "ID": 36394,
+        "Sense": "Expansion"
+    },
+    {
+        "Arg1": "it was strictly a big-stock rally fed by huge buying by bargain-hunting institutions and program traders",
+        "Arg2": "A troubling sign: Declining stocks on the Big Board outnumbered advancers, 975 to 749, and the over-the-counter market that includes many smaller stocks suffered aftershocks of Friday's late Big Board plunge",
+        "Connective": "also",
+        "DocID": "wsj_2232",
+        "ID": 36396,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "and the over-the-counter market that includes many smaller stocks suffered aftershocks of Friday's late Big Board plunge",
+        "Arg2": "The Nasdaq OTC index closed down 6.31 to 460.98",
+        "Connective": "specifically",
+        "DocID": "wsj_2232",
+        "ID": 36398,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Transports plunged on takeover disappointments in two airline stocks, UAL and AMR, which each fell more than 20% when they reopened for trading yesterday after being suspended Friday afternoon",
+        "Arg2": "UAL, the takeover stock at the center of Friday's 190.58-point market plunge, fell 56 7/8 to 222 7/8 on nearly 2.3 million shares",
+        "Connective": "specifically",
+        "DocID": "wsj_2232",
+        "ID": 36402,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Overall, \"this is a pleasant rally but it's very selective",
+        "Arg2": "Everyone was a little concerned about the general narrowness of the rally and failure of the OTC market to get into plus territory",
+        "Connective": "in fact",
+        "DocID": "wsj_2232",
+        "ID": 36404,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Everyone was a little concerned about the general narrowness of the rally and failure of the OTC market to get into plus territory",
+        "Arg2": "It's just a strange feeling",
+        "Connective": "so",
+        "DocID": "wsj_2232",
+        "ID": 36405,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "It's just a strange feeling",
+        "Arg2": "anyone left the place whistling Dixie",
+        "Connective": "and",
+        "DocID": "wsj_2232",
+        "ID": 36406,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Then computerized sell programs kicked in",
+        "Arg2": "There was heavy stock-index arbitrage",
+        "Connective": "subsequently",
+        "DocID": "wsj_2232",
+        "ID": 36413,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "There was heavy stock-index arbitrage, as traders sold big baskets of stock and bought stock-index futures to profit from the price discrepancies between the two markets",
+        "Arg2": "This was a hangover from Friday, when Standard & Poor's 500-stock index futures had closed at a sharp discount to stocks",
+        "Connective": "but",
+        "DocID": "wsj_2232",
+        "ID": 36415,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The onslaught of the program selling dashed any hopes that some of the big program trading firms would hold off until the market stabilized",
+        "Arg2": "They didn't",
+        "Connective": "indeed",
+        "DocID": "wsj_2232",
+        "ID": 36418,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "They didn't",
+        "Arg2": "The Dow accelerated its slide, losing 63.52 in the first 40 minutes of trading",
+        "Connective": "thus",
+        "DocID": "wsj_2232",
+        "ID": 36419,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "And this time, it wasn't just the program traders who were responsible",
+        "Arg2": "All the selling had pushed stocks to such cheap values that big investment banks and major money management firms started buying stocks heavily",
+        "Connective": "because",
+        "DocID": "wsj_2232",
+        "ID": 36424,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "the \"first thing we did was to double our orders\" yesterday morning",
+        "Arg2": "With the market down like this, we'll probably take another $50 million and put it in\" the market",
+        "Connective": "in fact",
+        "DocID": "wsj_2232",
+        "ID": 36428,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Trading in Walt Disney Co. particularly caught traders' eyes",
+        "Arg2": "According to Big Board officials, Disney had one of the biggest sell-order imbalances on Friday",
+        "Connective": "specifically",
+        "DocID": "wsj_2232",
+        "ID": 36429,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "According to Big Board officials, Disney had one of the biggest sell-order imbalances on Friday",
+        "Arg2": "it was one of the seven stocks that couldn't finish trading that day",
+        "Connective": "in fact",
+        "DocID": "wsj_2232",
+        "ID": 36430,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Around Wall Street, trading desks were relieved that they could at least play the market yesterday, in contrast to Friday's gridlock",
+        "Arg2": "At Donaldson, Lufkin & Jenrette Inc., head equity trader Dudley Eppel said: \"I think the opening was constructive",
+        "Connective": "for instance",
+        "DocID": "wsj_2232",
+        "ID": 36437,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "the opening was constructive",
+        "Arg2": "It was orderly",
+        "Connective": "because",
+        "DocID": "wsj_2232",
+        "ID": 36438,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "It was orderly",
+        "Arg2": "We put some orders together",
+        "Connective": "and",
+        "DocID": "wsj_2232",
+        "ID": 36439,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "We put some orders together",
+        "Arg2": "There wasn't a lot of panic selling, either domestically or internationally",
+        "Connective": "also",
+        "DocID": "wsj_2232",
+        "ID": 36440,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "There wasn't a lot of panic selling, either domestically or internationally",
+        "Arg2": "Not like Friday where they just took {the market} apart",
+        "Connective": "in other words",
+        "DocID": "wsj_2232",
+        "ID": 36441,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "On the Big Board floor and on trading desks, traders yelped their approval",
+        "Arg2": "Grinned Griffith Peck, a trader in Shearson Lehman Hutton Inc. 's OTC department: \"I tell you, this market acts healthy",
+        "Connective": "for instance",
+        "DocID": "wsj_2232",
+        "ID": 36446,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Grinned Griffith Peck, a trader in Shearson Lehman Hutton Inc. 's OTC department: \"I tell you, this market acts healthy",
+        "Arg2": "Around him, scores of traders seemed to get a burst of energy",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2232",
+        "ID": 36447,
+        "Sense": "Temporal.Synchrony"
+    },
+    {
+        "Arg1": "Around him, scores of traders seemed to get a burst of energy",
+        "Arg2": "their boss broke out bottles of Perrier water to cool them off",
+        "Connective": "in fact",
+        "DocID": "wsj_2232",
+        "ID": 36448,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "But not everybody was making money",
+        "Arg2": "The carnage on the Chicago Board Options Exchange, the nation's major options market, was heavy after the trading in S&P 100 stock-index options was halted Friday",
+        "Connective": "for instance",
+        "DocID": "wsj_2232",
+        "ID": 36450,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The carnage on the Chicago Board Options Exchange, the nation's major options market, was heavy after the trading in S&P 100 stock-index options was halted Friday",
+        "Arg2": "Many market makers in the S&P 100 index options contract had bullish positions Friday, and when the shutdown came they were frozen with huge losses",
+        "Connective": "and",
+        "DocID": "wsj_2232",
+        "ID": 36452,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Many market makers in the S&P 100 index options contract had bullish positions Friday, and when the shutdown came they were frozen with huge losses",
+        "Arg2": "Over the weekend, clearing firms told the Chicago market makers to get out of their positions at any cost Monday morning",
+        "Connective": "then",
+        "DocID": "wsj_2232",
+        "ID": 36455,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "that then we needed a savior to go into the Major Market Index, spend $2 million and get the program rally started",
+        "Arg2": "This time {institutions} saw the programs coming and backed away",
+        "Connective": "by contrast",
+        "DocID": "wsj_2232",
+        "ID": 36456,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "However, according to one analyst, the timing of Major Market Index futures buying just before the turnaround was similar to that of Terrible Tuesday",
+        "Arg2": "Futures were pulling the stock market higher,\" said Donald Selkin, head of stock-index futures research at Prudential-Bache Securities Inc",
+        "Connective": "specifically",
+        "DocID": "wsj_2232",
+        "ID": 36460,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Shares of three brokerage firms rose after they reported earnings",
+        "Arg2": "Merrill Lynch added 1 3/4 to 28, PaineWebber rose 3/4 to 18 1/2 and Bear Stearns rose 3/8 to 14 1/4",
+        "Connective": "specifically",
+        "DocID": "wsj_2232",
+        "ID": 36475,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "that program trading strategies weren't responsible for triggering Friday's decline",
+        "Arg2": "Some 24 million of the more than 100 million shares traded in the final 90 minutes of Friday's session, when the plunge in stock prices was concentrated, were program-related",
+        "Connective": "even though",
+        "DocID": "wsj_2232",
+        "ID": 36477,
+        "Sense": "Comparison.Concession"
+    },
+    {
+        "Arg1": "Mr. Phelan expressed relief that the market rebounded yesterday",
+        "Arg2": "Obviously, every time we get this kind of reaction, it's going to make everybody nervous, including me,\" he said",
+        "Connective": "also",
+        "DocID": "wsj_2232",
+        "ID": 36479,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Meanwhile, Peter DaPuzzo, Shearson's head of retail equity trading, praised institutional investors in the OTC market, who were heavy buyers of the Nasdaq's biggest technology issues yesterday amid a flood of selling by other investors",
+        "Arg2": "The institutions can't be criticized for their behavior,\" Mr. DaPuzzo said in an interview",
+        "Connective": "specifically",
+        "DocID": "wsj_2232",
+        "ID": 36483,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The institutions can't be criticized for their behavior",
+        "Arg2": "It was the opposite of what happened on Oct. 19",
+        "Connective": "since",
+        "DocID": "wsj_2232",
+        "ID": 36484,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "It was the opposite of what happened on Oct. 19",
+        "Arg2": "They used their judgment",
+        "Connective": "in particular",
+        "DocID": "wsj_2232",
+        "ID": 36485,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "They used their judgment",
+        "Arg2": "They didn't panic during the first round of selling this morning",
+        "Connective": "and",
+        "DocID": "wsj_2232",
+        "ID": 36486,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "the performance of specialists during Friday's plunge was admirable, because out of 1,640 Big Board common stocks traded during the day only seven were closed and weren't reopened before the close",
+        "Arg2": "They did an excellent job",
+        "Connective": "in short",
+        "DocID": "wsj_2232",
+        "ID": 36490,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "West Germany's Green Party joined its ideological soulmates Jeremy Rifkin and the Christic Institute in the legal battle to ground the Atlantis shuttle and its plutonium-powered Galileo probe to Jupiter",
+        "Arg2": "The anti-defense Greens wanted a Washington federal appeals court to block today's scheduled liftoff long enough for them to ask the World Court to \"order\" a permanent cancellation of the $1.5 billion flight",
+        "Connective": "specifically",
+        "DocID": "wsj_2233",
+        "ID": 36492,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The anti-defense Greens wanted a Washington federal appeals court to block today's scheduled liftoff long enough for them to ask the World Court to \"order\" a permanent cancellation of the $1.5 billion flight",
+        "Arg2": "A three-judge appeals panel yesterday refused to comply, though liberal Judge Pat Wald went out of her way to deny that this was a \"frivolous\" case",
+        "Connective": "however",
+        "DocID": "wsj_2233",
+        "ID": 36493,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "though liberal Judge Pat Wald went out of her way to deny that this was a \"frivolous\" case",
+        "Arg2": "Of course it was",
+        "Connective": "but",
+        "DocID": "wsj_2233",
+        "ID": 36495,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Of course it was",
+        "Arg2": "NASA should now sue for fines against all three politico-plaintiffs, foreign and domestic, for bringing this mischievous case",
+        "Connective": "so",
+        "DocID": "wsj_2233",
+        "ID": 36496,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "But the six-hour compromise was soon agreed to in subsequent discussions",
+        "Arg2": "As a practical matter, flights from the West Coast to Hawaii would be covered as they are under the time limit, but the language would exempt longer routes beginning, for example, in Chicago or on the East Coast",
+        "Connective": "however",
+        "DocID": "wsj_2234",
+        "ID": 36499,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Within the Senate, the ban has had aggressive support from Sen. Frank Lautenberg (D., N.J.), who has used his position as a Senate Appropriations subcommittee chairman to garner votes for the initiative",
+        "Arg2": "The measure is attached to the more than $26 billion fiscal 1990 transportation bill within Mr. Lautenberg's jurisdiction, and the final compromise is laced with more than $205 million in road projects earmarked by members as well as funds sought by major airports, including Denver",
+        "Connective": "consequently",
+        "DocID": "wsj_2234",
+        "ID": 36502,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "But the industry retains support in the House leadership through the influence of grower states, such as North Carolina",
+        "Arg2": "Majority Whip William Gray owes a political debt to Southern agriculture lawmakers for his rise in the House",
+        "Connective": "for instance",
+        "DocID": "wsj_2234",
+        "ID": 36505,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "the underlying bill was the subject of behind-the-scenes lobbying because of its impact on air transportation and the more mundane, but politically important, projects of members",
+        "Arg2": "In a stark lesson in the power of the appropriations committees, the House deliberately killed a handful of projects backed by lawmakers in Florida, Illinois and Pennsylvania",
+        "Connective": "in fact",
+        "DocID": "wsj_2234",
+        "ID": 36508,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "In a stark lesson in the power of the appropriations committees, the House deliberately killed a handful of projects backed by lawmakers in Florida, Illinois and Pennsylvania who had voted against the panel leadership on the House floor",
+        "Arg2": "Anybody can vote as they want But if you make a request, you should support the committee",
+        "Connective": "in other words",
+        "DocID": "wsj_2234",
+        "ID": 36509,
+        "Sense": "Expansion"
+    },
+    {
+        "Arg1": "Though smaller in total dollars, the conference agreed to preserve an estimated $30.6 million in controversial subsidies to carriers serving rural or isolated airports",
+        "Arg2": "The sum is more than double what the House had approved for the program, but the list of qualified airports would be cut by 22 under new distance requirements and limits on the level of subsidy",
+        "Connective": "but",
+        "DocID": "wsj_2234",
+        "ID": 36518,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Sony two weeks ago agreed to acquire Columbia for $3.4 billion, or $27 a share",
+        "Arg2": "Warner sued Sony and Guber-Peters late last week",
+        "Connective": "then",
+        "DocID": "wsj_2235",
+        "ID": 36523,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Warner sued Sony and Guber-Peters late last week",
+        "Arg2": "Sony and Guber-Peters have countersued",
+        "Connective": "in turn",
+        "DocID": "wsj_2235",
+        "ID": 36524,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Guber-Peters's net income in the latest quarter compared with a net loss of $6.9 million, or 62 cents a share, in the year-earlier period",
+        "Arg2": "revenue rose 138%, to $10.9 million from $4.6 million",
+        "Connective": "moreover",
+        "DocID": "wsj_2235",
+        "ID": 36525,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "so it is getting ready to send its own version of a CARE package",
+        "Arg2": "Last month, the Senate voted to send a delegation of congressional staffers to Poland to assist its legislature, the Sejm, in democratic procedures",
+        "Connective": "specifically",
+        "DocID": "wsj_2237",
+        "ID": 36527,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Senator Pete Domenici calls this effort \"the first gift of democracy",
+        "Arg2": "The Poles might do better to view it as a Trojan Horse",
+        "Connective": "but",
+        "DocID": "wsj_2237",
+        "ID": 36529,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The Poles might do better to view it as a Trojan Horse",
+        "Arg2": "It is the vast shadow government of 15,000 congressional staffers that helps create such legislative atrocities as the 1,376 page, 13-pound reconciliation bill that claimed to be the budget of the United States",
+        "Connective": "because",
+        "DocID": "wsj_2237",
+        "ID": 36530,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "It was a pretty wild day",
+        "Arg2": "Our markets were closely tied to the stock market",
+        "Connective": "because",
+        "DocID": "wsj_2239",
+        "ID": 36536,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The bond market seemed to ignore evidence that the Federal Reserve eased credit conditions slightly by allowing the federal funds rate to drift as low as 8 1/2%",
+        "Arg2": "The closely watched rate on federal funds, or overnight loans between banks, slid to about 8 3/4% last week, down from its perceived target level of about 9%",
+        "Connective": "in particular",
+        "DocID": "wsj_2239",
+        "ID": 36544,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "In fact, some economists contend that the latest easing started last week",
+        "Arg2": "Others note that some investors were disappointed because they had expected a more aggressive easing",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2239",
+        "ID": 36549,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The reversal was even more evident among shorter-term Treasury securities",
+        "Arg2": "After Treasury bill rates plummeted as much as 0.70 percentage point on Friday, they gave back three-fourths of that amount yesterday",
+        "Connective": "specifically",
+        "DocID": "wsj_2239",
+        "ID": 36552,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "But prices of junk bonds rebounded to post small gains after a volatile trading session",
+        "Arg2": "Junk bonds opened as much as four points lower but staged a modest comeback as stock prices firmed",
+        "Connective": "specifically",
+        "DocID": "wsj_2239",
+        "ID": 36557,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "trading in Tokyo was \"very active\" but highly volatile",
+        "Arg2": "We went down 3/4 point in 10 minutes right before lunch, then after lunch we went up 3/4 point in 12 minutes",
+        "Connective": "for example",
+        "DocID": "wsj_2239",
+        "ID": 36564,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Tokyo's market turned out to be a bad bellwether for U.S. trading",
+        "Arg2": "When the market opened here, bonds prices fell as the stock market regained strength",
+        "Connective": "as",
+        "DocID": "wsj_2239",
+        "ID": 36567,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Industrial production is expected to have declined 0.2%, according to a consensus of economists surveyed by Dow Jones Capital Markets Report",
+        "Arg2": "The August trade deficit is expected to have widened to $9.1 billion from $7.58 billion in July",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2239",
+        "ID": 36570,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "A widening of that magnitude is \"not a favorable number",
+        "Arg2": "It could do damage to us",
+        "Connective": "in other words",
+        "DocID": "wsj_2239",
+        "ID": 36572,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "There's lots of supply",
+        "Arg2": "We have a couple or three tough weeks coming",
+        "Connective": "so",
+        "DocID": "wsj_2239",
+        "ID": 36576,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Short-term interest rates fell yesterday at the government's weekly Treasury bill auction",
+        "Arg2": "The average discount rate on new three-month Treasury bills was 7.37%, the lowest since the average of 7.36% at the auction on Oct. 17, 1988",
+        "Connective": "for instance",
+        "DocID": "wsj_2239",
+        "ID": 36578,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The average discount rate on new three-month Treasury bills was 7.37%, the lowest since the average of 7.36% at the auction on Oct. 17, 1988",
+        "Arg2": "The average discount rate was 7.42% on new six-month bills, the lowest since the average of 7.35% at the auction on July 31, 1989",
+        "Connective": "and",
+        "DocID": "wsj_2239",
+        "ID": 36579,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Federal Home Loan Mortgage Corp. 9% securities were at 97 1/4, down 3/4",
+        "Arg2": "On Friday, mortgage issues gained as much as 1 5/32",
+        "Connective": "by comparison",
+        "DocID": "wsj_2239",
+        "ID": 36596,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Trading was hectic during the morning, with players trying to gauge whether equities would continue Friday's free fall or stabilize after a brief spot of weakness",
+        "Arg2": "Tax-exempts started the session flat to a touch higher on anticipation of further stock market erosion, but bond prices rapidly turned south as it became more clear that a repeat of the October 1987 crash wasn't at hand",
+        "Connective": "specifically",
+        "DocID": "wsj_2239",
+        "ID": 36600,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Professionals dominated municipal trading throughout the session",
+        "Arg2": "retail investors seemed to be hugging the sidelines until a measure of volatility is wrung out of the market",
+        "Connective": "as",
+        "DocID": "wsj_2239",
+        "ID": 36603,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Florida Board of Education's 7 1/4% issue of 2023 was 5/8 point weaker at 99 1/2 bid",
+        "Arg2": "The 7 1/8% issue of Triborough Bridge and Tunnel Authority of New York, due 2019, was off 5/8 at 98 1/8 bid",
+        "Connective": "and",
+        "DocID": "wsj_2239",
+        "ID": 36605,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Net income rose 11% to 29.62 billion yen from 26.68 billion",
+        "Arg2": "Pershare net fell to 423.3 yen from 457.7 yen because of expenses and capital adjustments",
+        "Connective": "however",
+        "DocID": "wsj_2242",
+        "ID": 36613,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "There is no pressing need to sell the unit",
+        "Arg2": "We are only going to sell at the right price",
+        "Connective": "hence",
+        "DocID": "wsj_2243",
+        "ID": 36618,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "the third-quarter estimate indicates profit for the nine months of $4.65 a share, \"almost equal to the full-year 1988 earnings\" of $108.6 million, or $4.81 a share",
+        "Arg2": "In the first nine months of 1988, net was $85 million, or $3.76 a share",
+        "Connective": "by comparison",
+        "DocID": "wsj_2245",
+        "ID": 36622,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "that as of the close of business yesterday, 560,839 shares had been tendered",
+        "Arg2": "Including the stake DIG already held, DIG holds a total of about 25% of Di Giorgio's shares on a fully diluted basis",
+        "Connective": "as a result",
+        "DocID": "wsj_2249",
+        "ID": 36638,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "If you guessed black-and-white snapshots, you're right",
+        "Arg2": "After years of fading into the background, two-tone photography is coming back",
+        "Connective": "because",
+        "DocID": "wsj_2250",
+        "ID": 36644,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Trendy magazine advertisements feature stark black-and-white photos of Hollywood celebrities pitching jeans, shoes and liquor",
+        "Arg2": "Portrait studios accustomed to shooting only in color report a rush to black-and-white portrait orders",
+        "Connective": "and",
+        "DocID": "wsj_2250",
+        "ID": 36645,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "What's happening in photography mirrors the popularity of black and white in fashion, home furnishings and cinematography",
+        "Arg2": "On Seventh Avenue, designers have been advancing the monochrome look with clothing collections done entirely in black and white",
+        "Connective": "for instance",
+        "DocID": "wsj_2250",
+        "ID": 36647,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Photographic companies are scrambling to tap the resurging market, reviving some black-and-white product lines and developing new ones",
+        "Arg2": "At Kodak, which largely ignored the market for years, black-and-white film sales now account for nearly 15% of the company's $3 billion in film and paper sales annually, up from 10% three years ago.The Rochester, N.Y., photographic giant recently began marketing T-Max 3200, one of the fastest and most sensitive monochrome films",
+        "Connective": "for instance",
+        "DocID": "wsj_2250",
+        "ID": 36651,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Also trying to snare a portion of the $2 billion-a-year industry is Agfa Corp., a unit of Bayer AG",
+        "Arg2": "Agfa recently signed Olympic gold medalist Florence Griffith-Joyner to endorse a new line of black-and-white paper",
+        "Connective": "for instance",
+        "DocID": "wsj_2250",
+        "ID": 36654,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "that's geared to consumers and will compete directly with Kodak's papers",
+        "Arg2": "Slated for market by the end of the year, the paper \"could have been introduced a long time ago but the market wasn't there then,\" says an Agfa spokesman",
+        "Connective": "in fact",
+        "DocID": "wsj_2250",
+        "ID": 36655,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The biggest beneficiary of the black-and-white revival is likely to be International Paper Co. 's Ilford division, known in the industry for its premium products",
+        "Arg2": "Sales of Ilford's four varieties of black-and-white film this year are outpacing growth in the overall market, although the company won't say by exactly how much",
+        "Connective": "indeed",
+        "DocID": "wsj_2250",
+        "ID": 36657,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Sales of Ilford's four varieties of black-and-white film this year are outpacing growth in the overall market",
+        "Arg2": "We hope the trend lasts",
+        "Connective": "so",
+        "DocID": "wsj_2250",
+        "ID": 36659,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "For baby boomers who grew up being photographed in color, black and white seems eye-catching and exotic",
+        "Arg2": "It has an archival, almost nostalgic quality to it",
+        "Connective": "also",
+        "DocID": "wsj_2250",
+        "ID": 36660,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "It has an archival, almost nostalgic quality to it",
+        "Arg2": "You can shift out of reality with black and white",
+        "Connective": "indeed",
+        "DocID": "wsj_2250",
+        "ID": 36661,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Such features have been especially attractive to professional photographers and marketing executives, who have been steadily increasing their use of black and white in advertising",
+        "Arg2": "Processing of black-and-white commercial film jumped 24% last year to 18.7 million rolls",
+        "Connective": "indeed",
+        "DocID": "wsj_2250",
+        "ID": 36662,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Consider Gap Inc., whose latest ad campaign features black-and-white shots of Hollywood stars, artists and other well-known personalities modeling the retailer's jeans and T-shirts",
+        "Arg2": "Gap didn't intentionally choose black and white to distinguish its ads from the color spreads of competitors",
+        "Connective": "however",
+        "DocID": "wsj_2250",
+        "ID": 36663,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Even food products and automobiles are making the switch",
+        "Arg2": "Companies \"feel black and white will convey a stronger statement",
+        "Connective": "because",
+        "DocID": "wsj_2250",
+        "ID": 36666,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Portrait studios have also latched onto the trend",
+        "Arg2": "Using black and white, \"we can make housewives look like stars",
+        "Connective": "because",
+        "DocID": "wsj_2250",
+        "ID": 36669,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "I show it to my friends, and they all say 'wow",
+        "Arg2": "It isn't ordinary like color",
+        "Connective": "since",
+        "DocID": "wsj_2250",
+        "ID": 36674,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "One big obstacle is that few drugstores develop the film anymore",
+        "Arg2": "Typically, it must be mailed to a handful of processors and may take a week or more to be processed and returned",
+        "Connective": "so",
+        "DocID": "wsj_2250",
+        "ID": 36677,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Other companies are introducing related products",
+        "Arg2": "Charles Beseler Co., a leading maker of photographic enlargers, introduced last month a complete darkroom starter kit targeted at teen-agers who want to process their own black-and-white photographs",
+        "Connective": "for instance",
+        "DocID": "wsj_2250",
+        "ID": 36684,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The kit, which has a suggested retail price of $250 and has already become a bestseller, was introduced after retailers noticed numerous requests from parents for children's photography equipment",
+        "Arg2": "It seems computers as hobbies have waned",
+        "Connective": "so",
+        "DocID": "wsj_2250",
+        "ID": 36687,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "the resurgence of black and white is only a fad",
+        "Arg2": "the emergence of still electronic photography, more newspapers turning to color on their pages and measurable improvements in the quality of color prints",
+        "Connective": "since",
+        "DocID": "wsj_2250",
+        "ID": 36689,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Black and white hasn't made the same quantum leaps in technological development as color",
+        "Arg2": "The color print today is far superior to prints of 10 years ago",
+        "Connective": "for instance",
+        "DocID": "wsj_2250",
+        "ID": 36690,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The color print today is far superior to prints of 10 years ago",
+        "Arg2": "You can't say the same with black and white",
+        "Connective": "but",
+        "DocID": "wsj_2250",
+        "ID": 36691,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "But when Popular Photography, a leading magazine for photographers, selected 15 of the greatest photos ever made for its latest issue celebrating photography's 150th anniversary, all were black and white",
+        "Arg2": "It's got a classic spirit and carries over emotionally",
+        "Connective": "because",
+        "DocID": "wsj_2250",
+        "ID": 36694,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "For the nine months, the newspaper chain had almost a 23% increase in profit to $23.6 million, or 83 cents a share, from $19.2 million, or 68 cents a share",
+        "Arg2": "Sales grew almost 7% to $279.1 million from $261.3 million",
+        "Connective": "and",
+        "DocID": "wsj_2251",
+        "ID": 36698,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "that the Swiss oil concern was examining the offer, submitted last Friday, along with two other offers, also submitted last week",
+        "Arg2": "Those two offers were private and the spokesman refused to identify the bidding companies",
+        "Connective": "however",
+        "DocID": "wsj_2252",
+        "ID": 36701,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The latest reading of 223.0 was up from 222.3 in July and 215.3 as recently as March",
+        "Arg2": "The August rise marked the fifth straight monthly gain for the indicator, which uses the 1967 average as a base of 100",
+        "Connective": "in fact",
+        "DocID": "wsj_2253",
+        "ID": 36705,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "In contrast, the Commerce Department's widely followed index of leading indicators, while up in August, has fallen repeatedly since reaching a high early this year",
+        "Arg2": "Its ragged behavior through much of 1989 has prompted some forecasters to anticipate the start of a new recession perhaps before year's end",
+        "Connective": "consequently",
+        "DocID": "wsj_2253",
+        "ID": 36709,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "the Columbia analysts foresee uninterrupted economic growth through the rest of this year and next year as well",
+        "Arg2": "They expect a 2.6% rise in 1990 in the gross national product, after adjustment for inflation",
+        "Connective": "specifically",
+        "DocID": "wsj_2253",
+        "ID": 36714,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Underlying this optimism is the index's longstanding ability to signal recessions or recoveries, as the case may be, by substantially greater periods than the Commerce Department's index of leading indicators",
+        "Arg2": "Over the full post-World War II era, the Columbia index, on the average, has entered sustained declines 14 months before the onset of recessions and turned up eight months before recoveries",
+        "Connective": "specifically",
+        "DocID": "wsj_2253",
+        "ID": 36715,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The Columbia economists also have reconstructed how the long leading index would have behaved, had it existed, in 1929, before the stock market crash in October that ushered in the Great Depression",
+        "Arg2": "The indicator reached a peak in January 1929 and then fell steadily up to and through the crash",
+        "Connective": "specifically",
+        "DocID": "wsj_2253",
+        "ID": 36718,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The indicator reached a peak in January 1929 and then fell steadily up to and through the crash",
+        "Arg2": "It was an entirely different pattern from what we're seeing now",
+        "Connective": "so",
+        "DocID": "wsj_2253",
+        "ID": 36720,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "As recently as 1975, the stock market -- as reflected in the Standard & Poor's index of 500 common stocks -- was rated by the National Bureau of Economic Research as the best of the 12 leading indicators that then made up the Commerce index",
+        "Arg2": "It was assigned a mark of 80 out of a possible 100, compared with scores ranging as low as 69 for the other components",
+        "Connective": "in particular",
+        "DocID": "wsj_2253",
+        "ID": 36725,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "BSN will initially acquire a 15% interest in Birkel, a closely held concern",
+        "Arg2": "The French group has an agreement giving it the right to buy all the shares outstanding",
+        "Connective": "but",
+        "DocID": "wsj_2254",
+        "ID": 36729,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "it reduced its rating on $281 million of senior and subordinated debt of this thrift holding company, to C from Ca",
+        "Arg2": "it confirmed American Continental's preferred stock rating at C",
+        "Connective": "also",
+        "DocID": "wsj_2255",
+        "ID": 36733,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The rating agency also reduced the ratings for long-term deposits to B-3 from Ba-3 and for preferred stock to Ca from Caa",
+        "Arg2": "about $85 million in securities was affected",
+        "Connective": "on the whole",
+        "DocID": "wsj_2255",
+        "ID": 36737,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "THE STOCK MARKET AVOIDED a repeat of Black Monday as prices recovered from an early slide, spurred by bargain-hunting institutions and program traders",
+        "Arg2": "The Dow Jones industrials closed up 88.12 points, at 2657.38, the fourth-biggest gain ever, after being down as much as 63.52 points in the morning",
+        "Connective": "in fact",
+        "DocID": "wsj_2256",
+        "ID": 36742,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The Dow Jones industrials closed up 88.12 points, at 2657.38, the fourth-biggest gain ever, after being down as much as 63.52 points in the morning",
+        "Arg2": "The rally erased about half of Friday's 190.58-point plunge, but analysts are cautious about the market's outlook",
+        "Connective": "however",
+        "DocID": "wsj_2256",
+        "ID": 36744,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The dollar also rebounded, while bond prices plummeted and Treasury bill rates soared",
+        "Arg2": "Junk bonds also recovered somewhat, though trading remained stalled",
+        "Connective": "similarly",
+        "DocID": "wsj_2256",
+        "ID": 36749,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Junk bonds also recovered somewhat, though trading remained stalled",
+        "Arg2": "Gold also rose",
+        "Connective": "similarly",
+        "DocID": "wsj_2256",
+        "ID": 36752,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Donald Trump withdrew his $7.54 billion offer for American Air",
+        "Arg2": "AMR slid $22.125, to $76.50",
+        "Connective": "as a result",
+        "DocID": "wsj_2256",
+        "ID": 36755,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Also, a UAL group tried to get financing for a lower bid, possibly $250 a share",
+        "Arg2": "UAL fell $56.875, to $222.875",
+        "Connective": "while",
+        "DocID": "wsj_2256",
+        "ID": 36757,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "U.S. auto makers plan to decrease car production 10.4% in the fourth quarter, with virtually all the decline coming from the Big Three",
+        "Arg2": "Output at Japanese-owned and managed plants in the U.S. is due to rise 42%",
+        "Connective": "by comparison",
+        "DocID": "wsj_2256",
+        "ID": 36760,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Budget director Darman said he won't give federal agencies much leeway in coping with Gramm-Rudman spending cuts",
+        "Arg2": "Darman hopes to prod Congress to finish a deficit plan",
+        "Connective": "because",
+        "DocID": "wsj_2256",
+        "ID": 36761,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The S&L bailout agency would be restricted by a new bill in how it raises capital",
+        "Arg2": "The Ways and Means plan would create another possible obstacle to selling sick thrifts",
+        "Connective": "so",
+        "DocID": "wsj_2256",
+        "ID": 36762,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "A natural gas rule was struck down by a federal appeals court",
+        "Arg2": "The regulation had prevented pipeline firms from passing part of $1 billion in costs along to customers",
+        "Connective": "previously",
+        "DocID": "wsj_2256",
+        "ID": 36763,
+        "Sense": "Temporal.Asynchronous.Succession"
+    },
+    {
+        "Arg1": "Blue Arrow of Britain plans to return to the name Manpower and take a big write-off",
+        "Arg2": "The moves may help the firm solidify its dominance of the U.S. temporary-help market",
+        "Connective": "because",
+        "DocID": "wsj_2256",
+        "ID": 36766,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "J.P. Morgan posted a $1.82 billion loss for the third quarter, reflecting a big addition to loan-loss reserves",
+        "Arg2": "NCNB's profit more than doubled",
+        "Connective": "by contrast",
+        "DocID": "wsj_2256",
+        "ID": 36767,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "These rate indications aren't directly comparable",
+        "Arg2": "lending practices vary widely by location",
+        "Connective": "because",
+        "DocID": "wsj_2257",
+        "ID": 36768,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Under the agreement, Intel will invest $3 million to acquire a 4% stake in Alliant, a maker of minisupercomputers for scientists and engineers",
+        "Arg2": "Alliant will license its parallel-computing technologies to Intel, providing users a way to let many i860 microprocessors in a single computer work on a problem simultaneously",
+        "Connective": "in return",
+        "DocID": "wsj_2258",
+        "ID": 36770,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Alliant said it plans to use the microprocessor in future products",
+        "Arg2": "It declined to discuss its plans for upgrading its current product line",
+        "Connective": "however",
+        "DocID": "wsj_2258",
+        "ID": 36772,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "the sale completes a previously announced program to divest itself of its hardware and plumbing supplies operations",
+        "Arg2": "The company's remaining business is the manufacture and sale of engine and transmissions products for industrial and transportation applications",
+        "Connective": "as a result",
+        "DocID": "wsj_2261",
+        "ID": 36782,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "it sustained a net loss of $1.6 million, or nine cents a share, compared with net income of $1.3 million, or eight cents a share, a year earlier",
+        "Arg2": "Operating revenue rose 13% to $22.2 million from $19.7 million in the year-earlier quarter",
+        "Connective": "also",
+        "DocID": "wsj_2262",
+        "ID": 36783,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "To the extent Mr. Stanley has done anything wrong, it may be that he is out of step with the consensus of world intellectuals that the Namibian guerrillas were above all else the victims of suppression by neighboring South Africa",
+        "Arg2": "SWAPO has enjoyed favorable Western media treatment ever since the U.N. General Assembly declared it the \"sole, authentic representative\" of Namibia's people in",
+        "Connective": "for instance",
+        "DocID": "wsj_2264",
+        "ID": 36791,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "In July, Mr. Stanley, editor of American Press International, a Washington D.C.-based conservative wire service, visited Namibia to report on the U.N.-monitored election campaign",
+        "Arg2": "He interviewed Mr. O'Linn, head of a commission charged with investigating electoral intimidation, and reported that Mr. O'Linn was openly sympathetic to SWAPO and indeed had defended its leaders in court",
+        "Connective": "at that time",
+        "DocID": "wsj_2264",
+        "ID": 36795,
+        "Sense": "Temporal.Synchrony"
+    },
+    {
+        "Arg1": "He interviewed Mr. O'Linn, head of a commission charged with investigating electoral intimidation, and reported that Mr. O'Linn was openly sympathetic to SWAPO and indeed had defended its leaders in court",
+        "Arg2": "After Mr. Stanley's article was published in two Namibian newspapers, Mr. O'Linn had criminal charges brought against their editors, publisher and lawyer",
+        "Connective": "subsequently",
+        "DocID": "wsj_2264",
+        "ID": 36797,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "After Mr. Stanley's article was published in two Namibian newspapers, Mr. O'Linn had criminal charges brought against their editors, publisher and lawyer",
+        "Arg2": "Mr. Stanley was arrested and charged along with the others when he returned to Namibia this month",
+        "Connective": "then",
+        "DocID": "wsj_2264",
+        "ID": 36799,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Both South African and SWAPO extremists are intimidating voters",
+        "Arg2": "The U.S. is in the habit of arranging peace settlements and then washing its hands over the tragic results",
+        "Connective": "while",
+        "DocID": "wsj_2264",
+        "ID": 36803,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "The U.S. is in the habit of arranging peace settlements and then washing its hands over the tragic results",
+        "Arg2": "It now has the chance to redress that record in Namibia",
+        "Connective": "however",
+        "DocID": "wsj_2264",
+        "ID": 36805,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "It now has the chance to redress that record in Namibia",
+        "Arg2": "State and the human-rights community should insist that Mr. Stanley and his fellow defendants be released and that the United Nation's monitors make certain that Mr. O'Linn's commission investigates election complaints from all sides",
+        "Connective": "specifically",
+        "DocID": "wsj_2264",
+        "ID": 36806,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Copper and crude oil reacted sharply to the concern that a crash yesterday could have a potentially devastating effect on the economy",
+        "Arg2": "Copper fell and showed little rebound through the day as one of the major supply problems that had been supporting prices appeared to be solved",
+        "Connective": "in particular",
+        "DocID": "wsj_2265",
+        "ID": 36814,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The spot October gold price rose $4 to $367.30 an ounce",
+        "Arg2": "The more active December delivery gold settled with a gain of $3.90 an ounce at $371.20, after trading as high as $374",
+        "Connective": "whereas",
+        "DocID": "wsj_2265",
+        "ID": 36825,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "December silver was up 2.3 cents an ounce at $5.163",
+        "Arg2": "Platinum behaved more like an industrial metal, easing early on concern over a possible weaker economy, but recovering later, as the stock market strengthened",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2265",
+        "ID": 36828,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "For one thing, last Friday, precious metals markets closed before the stock market went into its late-in-the-day nose dive, so it couldn't react to it",
+        "Arg2": "Back on Friday, Oct. 16, l987, the stock market declined during the day, and gold prices surged as the stock market fell",
+        "Connective": "whereas",
+        "DocID": "wsj_2265",
+        "ID": 36833,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "and gold prices surged as the stock market fell",
+        "Arg2": "The October 1987 contract that day rose as much as $8.70 to as high as $471.60",
+        "Connective": "for instance",
+        "DocID": "wsj_2265",
+        "ID": 36836,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The October 1987 contract that day rose as much as $8.70 to as high as $471.60",
+        "Arg2": "On Black Monday, Oct. 19, 1987, the October contract tacked on further gains, rising to as high as $491.50 for a gain of almost $20 on top of the Friday advances, before giving up almost $10 of that at the close",
+        "Connective": "then",
+        "DocID": "wsj_2265",
+        "ID": 36838,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Yesterday's October gain of $4 was miniscule compared with that",
+        "Arg2": "the gold market already had some good price-supporting technical factors that would have caused prices to rise, with or without the stock market",
+        "Connective": "besides",
+        "DocID": "wsj_2265",
+        "ID": 36841,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "the gold market already had some good price-supporting technical factors that would have caused prices to rise, with or without the stock market",
+        "Arg2": "What the stock market did was cause the rise to take place earlier than it would have happened",
+        "Connective": "so",
+        "DocID": "wsj_2265",
+        "ID": 36842,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "What the stock market did was cause the rise to take place earlier than it would have happened",
+        "Arg2": "There's a good chance that gold will retain its gains and rise further",
+        "Connective": "so",
+        "DocID": "wsj_2265",
+        "ID": 36843,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "There's a good chance that gold will retain its gains and rise further",
+        "Arg2": "He expects a drop in interest rates, which would help gold by keeping the dollar from rising",
+        "Connective": "because",
+        "DocID": "wsj_2265",
+        "ID": 36844,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Finally, according to Mr. Cardillo, the impact of the strong dollar should be reflected in reduced exports in the August merchandise trade deficit",
+        "Arg2": "This would be damaging to the dollar and supportive for gold",
+        "Connective": "in turn",
+        "DocID": "wsj_2265",
+        "ID": 36847,
+        "Sense": "Expansion"
+    },
+    {
+        "Arg1": "petroleum futures traders called a halt to the recent string of increases in crude oil futures prices",
+        "Arg2": "The U.S. benchmark crude, West Texas Intermediate, closed at $20.59 a barrel for November delivery, down 30 cents",
+        "Connective": "in fact",
+        "DocID": "wsj_2265",
+        "ID": 36848,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "that Friday's stock market drop is what dampened spirits in the petroleum pits yesterday",
+        "Arg2": "Until yesterday, futures prices had been headed up on expectations that world oil demand will continue to be strong",
+        "Connective": "because",
+        "DocID": "wsj_2265",
+        "ID": 36851,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Until yesterday, futures prices had been headed up on expectations that world oil demand will continue to be strong",
+        "Arg2": "The Organization of Petroleum Exporting Countries increased its production ceiling for the fourth quarter based on projections of robust demand",
+        "Connective": "in fact",
+        "DocID": "wsj_2265",
+        "ID": 36852,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Futures prices fell",
+        "Arg2": "The December contract declined 3.05 cents a pound to $1.2745",
+        "Connective": "for instance",
+        "DocID": "wsj_2265",
+        "ID": 36858,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The December contract declined 3.05 cents a pound to $1.2745",
+        "Arg2": "Prices were down from the outset of trading",
+        "Connective": "on the whole",
+        "DocID": "wsj_2265",
+        "ID": 36859,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Last week that company and union negotiations had overcome the major hurdle, the contracting out of work by the company",
+        "Arg2": "Now only minor points remain to be cleaned up",
+        "Connective": "as a result",
+        "DocID": "wsj_2265",
+        "ID": 36865,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Now only minor points remain to be cleaned up",
+        "Arg2": "For all intents and purposes, an agreement appears to have been achieved",
+        "Connective": "in sum",
+        "DocID": "wsj_2265",
+        "ID": 36866,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Copper inventories in New York's Commodity Exchange warehouses rose yesterday by 516 tons, to 10,004 tons",
+        "Arg2": "London Metal Exchange copper inventories last week declined 13,575 tons, to 89,300 tons",
+        "Connective": "whereas",
+        "DocID": "wsj_2265",
+        "ID": 36867,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Copper inventories in New York's Commodity Exchange warehouses rose yesterday by 516 tons, to 10,004 tons.London Metal Exchange copper inventories last week declined 13,575 tons, to 89,300 tons",
+        "Arg2": "The LME stocks decline was about as expected, but the Comex gain wasn't",
+        "Connective": "however",
+        "DocID": "wsj_2265",
+        "ID": 36868,
+        "Sense": "Comparison"
+    },
+    {
+        "Arg1": "However, this was brushed aside by concern over the stock market",
+        "Arg2": "At one point in futures trading, as the stock market firmed, the December contract rose to as high as $1.2965, but it wasn't able to sustain the gain",
+        "Connective": "for instance",
+        "DocID": "wsj_2265",
+        "ID": 36871,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "but it wasn't able to sustain the gain",
+        "Arg2": "It was simply overbought",
+        "Connective": "because",
+        "DocID": "wsj_2265",
+        "ID": 36874,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Futures prices eased",
+        "Arg2": "The December contract ended with a loss of 0.22 cent a pound, at 74.48 cents",
+        "Connective": "for instance",
+        "DocID": "wsj_2265",
+        "ID": 36875,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "prices began to slip late Friday",
+        "Arg2": "That selling continued yesterday and kept prices under pressure",
+        "Connective": "then",
+        "DocID": "wsj_2265",
+        "ID": 36881,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Colder weather is being predicted for the high plains of Texas and the northern states of the Delta during the coming weekend",
+        "Arg2": "That hasn't yet captured traders' attention",
+        "Connective": "but",
+        "DocID": "wsj_2265",
+        "ID": 36883,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Futures prices declined",
+        "Arg2": "The March contract was off 0.32 cent a pound at 13.97 cents",
+        "Connective": "for instance",
+        "DocID": "wsj_2265",
+        "ID": 36884,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The March contract was off 0.32 cent a pound at 13.97 cents",
+        "Arg2": "At one point in early trading the March price rose to as high as 14.22 cents when the stock market recovered",
+        "Connective": "although",
+        "DocID": "wsj_2265",
+        "ID": 36885,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "that India didn't make any purchases",
+        "Arg2": "India recently bought 200,000 tons and was expected to buy more",
+        "Connective": "although",
+        "DocID": "wsj_2265",
+        "ID": 36890,
+        "Sense": "Comparison.Concession"
+    },
+    {
+        "Arg1": "Another analyst thought that India may have pulled back because of the concern over the stock market",
+        "Arg2": "India may have felt that if there was a severe drop in the stock market and it affected sugar, it could buy at lower prices,\" said Judith Ganes, analyst for Shearson Lehman Hutton, New York",
+        "Connective": "specifically",
+        "DocID": "wsj_2265",
+        "ID": 36892,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "India may have felt that if there was a severe drop in the stock market and it affected sugar, it could buy at lower prices",
+        "Arg2": "At any rate India needs the sugar, so it will be in sooner or later to buy it",
+        "Connective": "but",
+        "DocID": "wsj_2265",
+        "ID": 36895,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The prices of most grain futures contracts rose slightly yesterday out of relief that the stock market was showing signs of recovering",
+        "Arg2": "Earlier in the session, the prices of several soybean contracts set new lows",
+        "Connective": "by comparison",
+        "DocID": "wsj_2265",
+        "ID": 36898,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Earlier in the session, the prices of several soybean contracts set new lows",
+        "Arg2": "A broad rally began when several major processors began buying futures contracts",
+        "Connective": "however",
+        "DocID": "wsj_2265",
+        "ID": 36899,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "the third-quarter earnings that the company plans to report Oct. 24 are expected to be up",
+        "Arg2": "he was \"comfortable\" with revised analysts' projections that the company would report earnings of between 62 cents and 64 cents a share, compared with the 53 cents a share it reported for the 1988 third quarter",
+        "Connective": "in particular",
+        "DocID": "wsj_2266",
+        "ID": 36902,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Golden West Financial Corp posted a 16% increase of third-quarter earnings to $41.8 millon, or 66 cents a share",
+        "Arg2": "The company earned $36 million, or 57 cents a share, in the year-ago quarter",
+        "Connective": "by comparison",
+        "DocID": "wsj_2268",
+        "ID": 36908,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "consumer deposits have enjoyed a steady increase throughout 1989, and topped $11 billion at quarter's end for the first time in the company's history",
+        "Arg2": "Deposit growth amounted to $393 million, more than double the year-ago figure",
+        "Connective": "while",
+        "DocID": "wsj_2268",
+        "ID": 36910,
+        "Sense": "Expansion"
+    },
+    {
+        "Arg1": "which involves the use of a multilayer plastic bag during repairs to capture the gaseous substance and transport it to a recycling center",
+        "Arg2": "Earlier repairs vented the CFCs out of the home through a hose directly into the atmosphere",
+        "Connective": "by comparison",
+        "DocID": "wsj_2269",
+        "ID": 36911,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "and a number of companies are seeking to curtail use, or at least emission, of the substance",
+        "Arg2": "Whirpool said, \"We see this process as a small but important step toward eventual elimination of CFC use in appliance manufacture",
+        "Connective": "for instance",
+        "DocID": "wsj_2269",
+        "ID": 36914,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "However, Maxus said it believes the reserves in the field are about 10 million barrels of oil",
+        "Arg2": "The Intan Field has estimated reserves of 50 million barrels and the Widuri Field has estimated reserves of 225 million barrels",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2270",
+        "ID": 36917,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "the restatement will reduce its net for the nine months ended July 31 to $2.5 million, or 17 cents a share, from $3.7 million, or 26 cents a share",
+        "Arg2": "Net for the third quarter, restated, is $1.6 million, or 10 cents a share",
+        "Connective": "while",
+        "DocID": "wsj_2271",
+        "ID": 36922,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "But because of confusion, it took those credits again in reporting its results through the first nine months",
+        "Arg2": "the change increases the company's effective tax rate to about 35% from 20%",
+        "Connective": "as a result",
+        "DocID": "wsj_2271",
+        "ID": 36924,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Charles Johnston, ISI chairman and president, agreed to sell his 60% stake in ISI to Memotec upon completion of the tender offer for a combination of cash, Memotec stock and debentures",
+        "Arg2": "the tender offer is conditioned on, among other things, holders tendering at least 15% of the shares outstanding",
+        "Connective": "however",
+        "DocID": "wsj_2272",
+        "ID": 36928,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "its board has instructed management to accept inquiries from any others interested in making a bid",
+        "Arg2": "it can withdraw from the merger agreement with Memotec if a better bid surfaces",
+        "Connective": "further",
+        "DocID": "wsj_2272",
+        "ID": 36929,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "2.6 million shares have been purchased since then",
+        "Arg2": "it will buy additional shares \"from time to time in the open market or in private transactions at prevailing market prices",
+        "Connective": "further",
+        "DocID": "wsj_2273",
+        "ID": 36932,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "CWA's New Jersey Commercial local, which represents about 2,500 service representatives and marketing employees, rejected the tentative agreement",
+        "Arg2": "Both the union and the regional telephone company said they were working together to resolve differences",
+        "Connective": "however",
+        "DocID": "wsj_2275",
+        "ID": 36938,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "and investors large and small seemed to accept Friday's dizzying 190-point plunge as a sharp correction, not a calamity",
+        "Arg2": "Many went bargain-hunting",
+        "Connective": "in fact",
+        "DocID": "wsj_2276",
+        "ID": 36945,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "At first, it seemed as if history might repeat itself",
+        "Arg2": "As trading opened yesterday morning on the Big Board, stocks of many of the nation's biggest companies couldn't open for trading because a wave of sell orders was overwhelming buyers",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 36948,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "As trading opened yesterday morning on the Big Board, stocks of many of the nation's biggest companies couldn't open for trading because a wave of sell orders was overwhelming buyers",
+        "Arg2": "By 10:10, the Dow Industrials were off 63.52 points",
+        "Connective": "as a result",
+        "DocID": "wsj_2276",
+        "ID": 36951,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "By the market's close, volume on the New York exchange totaled more than 416 million, the fourth highest on record",
+        "Arg2": "The Big Board handled the huge volume without any obvious strain, in sharp contrast to Black Monday of 1987",
+        "Connective": "nevertheless",
+        "DocID": "wsj_2276",
+        "ID": 36956,
+        "Sense": "Comparison.Concession"
+    },
+    {
+        "Arg1": "The Frankfurt stock exchange was hardest hit of the major markets, with blue chips there falling 12.8%",
+        "Arg2": "In London, a midday rally left the market's major index off 3.2%",
+        "Connective": "by comparison",
+        "DocID": "wsj_2276",
+        "ID": 36961,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "and Tokyo's leading stock index fell only 1.8% in surprisingly lackluster trading",
+        "Arg2": "Other, more thinly traded Asian markets were hit harder than Tokyo's, but there were no free-fall declines",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2276",
+        "ID": 36963,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "they learned valuable lessons since the 1987 crash",
+        "Arg2": "In this age of computerized trading, huge corrections or runups in a few hours' time must be expected",
+        "Connective": "specifically",
+        "DocID": "wsj_2276",
+        "ID": 36965,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "There was less panic than in 1987",
+        "Arg2": "We had been through it once",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 36967,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "In Somerset, Wis., Adrian Sween agrees",
+        "Arg2": "I look at it as a ho-hum matter",
+        "Connective": "specifically",
+        "DocID": "wsj_2276",
+        "ID": 36969,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Many other factors played a part in yesterday's comeback",
+        "Arg2": "The Federal Reserve signaled its willingness to provide liquidity",
+        "Connective": "for instance",
+        "DocID": "wsj_2276",
+        "ID": 36970,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The Federal Reserve signaled its willingness to provide liquidity",
+        "Arg2": "the interest rate on its loans to major banks inched downward early in the day",
+        "Connective": "in particular",
+        "DocID": "wsj_2276",
+        "ID": 36971,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The Federal Reserve signaled its willingness to provide liquidity; the interest rate on its loans to major banks inched downward early in the day",
+        "Arg2": "Foreign stock markets, which kicked off Black Monday with a huge selling spree, began the day off by relatively modest amounts",
+        "Connective": "while",
+        "DocID": "wsj_2276",
+        "ID": 36972,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Foreign stock markets, which kicked off Black Monday with a huge selling spree, began the day off by relatively modest amounts",
+        "Arg2": "The dollar, after falling sharply in overnight trading to 139.10 yen, bounced back strongly to 141.8, thus easing fears that foreigners would unload U.S. stocks",
+        "Connective": "also",
+        "DocID": "wsj_2276",
+        "ID": 36973,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "some market professionals cautioned that there is nothing present in the current market system to prevent another dizzying drop such as Friday's",
+        "Arg2": "There is too much complacency,\" says money manager Barry Schrager",
+        "Connective": "for instance",
+        "DocID": "wsj_2276",
+        "ID": 36980,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "where the Nikkei average of 225 blue-chip stocks got off to a rocky start",
+        "Arg2": "The average plunged some 600 points, or 1.7%, in the first 20 minutes of trading",
+        "Connective": "specifically",
+        "DocID": "wsj_2276",
+        "ID": 36983,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Unlike two years ago, most of Japan's major investors chose to sit this calamity out",
+        "Arg2": "In Merrill Lynch & Co. 's Tokyo trading room, some 40 traders and assistants sat quietly, with few orders to process",
+        "Connective": "for instance",
+        "DocID": "wsj_2276",
+        "ID": 36987,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "In Merrill Lynch & Co. 's Tokyo trading room, some 40 traders and assistants sat quietly, with few orders to process",
+        "Arg2": "Clients \"are all staying out\" of the market",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 36988,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "The relative calm in Tokyo proved little comfort to markets opening up in Europe",
+        "Arg2": "Frankfurt's opening was delayed a half hour because of a crush of sell orders",
+        "Connective": "for instance",
+        "DocID": "wsj_2276",
+        "ID": 36989,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Frankfurt's opening was delayed a half hour because of a crush of sell orders",
+        "Arg2": "The beginning was chaotic",
+        "Connective": "on the whole",
+        "DocID": "wsj_2276",
+        "ID": 36990,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "The screen was a sea of red",
+        "Arg2": "I see concern, but I don't see panic",
+        "Connective": "nonetheless",
+        "DocID": "wsj_2276",
+        "ID": 36995,
+        "Sense": "Comparison.Concession"
+    },
+    {
+        "Arg1": "When trading opened in New York at 9:30 a.m. EDT, stocks fell sharply -- as expected",
+        "Arg2": "Futures markets in Chicago had opened at a level suggesting the Dow would fall by about 60 points",
+        "Connective": "earlier",
+        "DocID": "wsj_2276",
+        "ID": 36999,
+        "Sense": "Temporal.Asynchronous.Succession"
+    },
+    {
+        "Arg1": "Futures markets in Chicago had opened at a level suggesting the Dow would fall by about 60 points",
+        "Arg2": "With sell orders piled up from Friday, about half the stocks in the Dow couldn't open on time",
+        "Connective": "moreover",
+        "DocID": "wsj_2276",
+        "ID": 37000,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "With sell orders piled up from Friday, about half the stocks in the Dow couldn't open on time",
+        "Arg2": "By 9:45, the industrial average had dropped 27 points",
+        "Connective": "then",
+        "DocID": "wsj_2276",
+        "ID": 37001,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "By 10 a.m., it was down 49",
+        "Arg2": "Ten minutes later, the Dow hit bottom-down 63.52 points, another 2.5%",
+        "Connective": "then",
+        "DocID": "wsj_2276",
+        "ID": 37003,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "But shortly before then they sensed a turn",
+        "Arg2": "The first thing that caught my eye that was encouraging was Treasury bonds were off",
+        "Connective": "for example",
+        "DocID": "wsj_2276",
+        "ID": 37006,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The first thing that caught my eye that was encouraging was Treasury bonds were off",
+        "Arg2": "It meant that people weren't running pell-mell to the safety of bonds",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 37007,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Shortly after 10 a.m., the Major Market Index, a Chicago Board of Trade futures contract of 20 stocks designed to mimic the DJIA, exploded upward",
+        "Arg2": "Stock traders were buoyed",
+        "Connective": "as a result",
+        "DocID": "wsj_2276",
+        "ID": 37008,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "The MMI has gone better,\" shouted a trader in the London office of Shearson Lehman Hutton",
+        "Arg2": "Shearson's London trading room went wild",
+        "Connective": "then",
+        "DocID": "wsj_2276",
+        "ID": 37011,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "Shearson's London trading room went wild",
+        "Arg2": "Traders shouted out as their Reuters, Quotron and Telerate screens posted an ever-narrowing loss on Wall Street",
+        "Connective": "and",
+        "DocID": "wsj_2276",
+        "ID": 37012,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Then, nine minutes later, Wall Street suddenly rebounded to a gain on the day",
+        "Arg2": "Rally, rally, rally,\" shouted Shearson's Andy Rosen",
+        "Connective": "so",
+        "DocID": "wsj_2276",
+        "ID": 37015,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "By 10:25, the Dow had turned up for the day, prompting cheers on trading desks and exchange floors",
+        "Arg2": "Among Big Board specialists, the cry was \"Pull your offers",
+        "Connective": "accordingly",
+        "DocID": "wsj_2276",
+        "ID": 37023,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "It was bedlam on the upside",
+        "Arg2": "What we had was a real, old-fashioned rally",
+        "Connective": "in short",
+        "DocID": "wsj_2276",
+        "ID": 37024,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Typical, perhaps, was Batterymarch's Dean LeBaron",
+        "Arg2": "Mr. LeBaron, who manages $10 billion, says, \"We turned the trading system on, and it did whatever it was programmed to do",
+        "Connective": "specifically",
+        "DocID": "wsj_2276",
+        "ID": 37026,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Mr. LeBaron says, \"We turned the trading system on, and it did whatever it was programmed to do",
+        "Arg2": "Asked what stocks the computer bought, the money manager says, \"I don't know",
+        "Connective": "but",
+        "DocID": "wsj_2276",
+        "ID": 37028,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Not everybody was making money",
+        "Arg2": "The carnage on the Chicago Board Options Exchange, the nation's major options market, was heavy after the trading in S&P 100 stock-index options was halted Friday",
+        "Connective": "for instance",
+        "DocID": "wsj_2276",
+        "ID": 37029,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "The carnage on the Chicago Board Options Exchange, the nation's major options market, was heavy after the trading in S&P 100 stock-index options was halted Friday",
+        "Arg2": "Many market makers in the S&P 100 index options contract had bullish positions Friday, and when the shutdown came they were frozen with huge losses",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 37031,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Many market makers in the S&P 100 index options contract had bullish positions Friday, and when the shutdown came they were frozen with huge losses",
+        "Arg2": "Over the weekend, clearing firms told the Chicago market makers to get out of their positions at any cost Monday morning",
+        "Connective": "so",
+        "DocID": "wsj_2276",
+        "ID": 37034,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Meanwhile, a test of the stock market's rally came at about 2 p.m., with the Dow at 2600, up 31 points on the day",
+        "Arg2": "bargain hunting had explained the Dow's strength up to that point and that many market professionals were anticipating a drop in the Dow",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 37036,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "Across the country, many people took yesterday's events in stride, while remaining generally uneasy about the stock market in general",
+        "Arg2": "Says James Norman, the mayor of Ava, Mo.: \"I don't invest in stocks.I much prefer money I can put my hands on.\" While Mayor Norman found the market's performance Monday reassuring, he says, he remains uneasy",
+        "Connective": "for instance",
+        "DocID": "wsj_2276",
+        "ID": 37045,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "I don't invest in stocks",
+        "Arg2": "I much prefer money I can put my hands on",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 37046,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "he remains uneasy",
+        "Arg2": "We have half the experts saying one thing and half the other\" about the course of the economy",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 37049,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "You're on a roller coaster, and that may last",
+        "Arg2": "The public is still cautious",
+        "Connective": "because",
+        "DocID": "wsj_2276",
+        "ID": 37052,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "and Pizza Hut Inc. questioned whether the purchase would violate National Pizza's franchise agreements",
+        "Arg2": "National Pizza said it settled its dispute with Pizza Hut, allowing it to make the purchase",
+        "Connective": "however",
+        "DocID": "wsj_2277",
+        "ID": 37055,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "For the 12 weeks ended Sept. 3, Skipper's had net income of $361,000, or 13 cents a share, compared with a net loss a year earlier",
+        "Arg2": "Revenue was $19.9 million",
+        "Connective": "meanwhile",
+        "DocID": "wsj_2277",
+        "ID": 37057,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Gorbachev blamed the Soviet Union's press for contributing to the nation's mounting problems",
+        "Arg2": "At a meeting Friday, the Kremlin leader complained about recent articles that raised the possiblity of civil unrest, and accused the media of fueling panic buying of goods by publishing stories about impending shortages",
+        "Connective": "specifically",
+        "DocID": "wsj_2278",
+        "ID": 37062,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "and a federal appeals court in Washington dismissed a lawsuit by anti-nuclear groups to delay the flight because the plutonium-powered Galileo space probe was aboard",
+        "Arg2": "it didn't expect weather or protesters to block the liftoff",
+        "Connective": "further",
+        "DocID": "wsj_2278",
+        "ID": 37067,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "but didn't show any real signs of resuming full diplomatic ties",
+        "Arg2": "The Egyptian president said he would visit Libya today to resume the talks",
+        "Connective": "however",
+        "DocID": "wsj_2278",
+        "ID": 37074,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Bush is \"fully satisfied\" with CIA Director Webster and the intelligence agency's performance during the Oct. 3 failed coup in Panama",
+        "Arg2": "that unidentified senior administration officials were frustrated with Webster's low-profile activities during the insurrection and wanted him replaced",
+        "Connective": "although",
+        "DocID": "wsj_2278",
+        "ID": 37078,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "Mr. Farley said the sale of three of Cluett's four main divisions plus other \"anticipated\" West Point-Pepperell asset sales by December, should bring in a total of about $700 million",
+        "Arg2": "He didn't elaborate on other asset sales being considered",
+        "Connective": "however",
+        "DocID": "wsj_2280",
+        "ID": 37086,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "The moves also could erase shareholders' perception of Blue Arrow as a company in turmoil",
+        "Arg2": "It further reinforces the concept that Blue Arrow is a thing of the past",
+        "Connective": "since",
+        "DocID": "wsj_2281",
+        "ID": 37099,
+        "Sense": "Contingency.Cause.Reason"
+    },
+    {
+        "Arg1": "In a widely publicized boardroom coup, Mr. Fromstein ousted Antony Berry as Blue Arrow chief executive in January",
+        "Arg2": "Mr. Fromstein solidified his control in April by taking over from Mr. Berry as chairman",
+        "Connective": "then",
+        "DocID": "wsj_2281",
+        "ID": 37102,
+        "Sense": "Temporal.Asynchronous.Precedence"
+    },
+    {
+        "Arg1": "different British and American accounting standards produce higher reported earnings for British companies",
+        "Arg2": "Under British rules, Blue Arrow was able to write off at once the $1.15 billion in good will arising from the purchase.As a U.S.-based company, Blue Arrow would have to amortize the good will over as many as 40 years, creating a continuing drag on reported earnings",
+        "Connective": "specifically",
+        "DocID": "wsj_2281",
+        "ID": 37106,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Under British rules, Blue Arrow was able to write off at once the $1.15 billion in good will arising from the purchase",
+        "Arg2": "As a U.S.-based company, Blue Arrow would have to amortize the good will over as many as 40 years, creating a continuing drag on reported earnings",
+        "Connective": "but",
+        "DocID": "wsj_2281",
+        "ID": 37107,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "But with so many shares now held in the U.S., Blue Arrow reports its earnings two ways, based on both U.K. and U.S. accounting standards",
+        "Arg2": "Our balance sheets look like they came from Alice's wonderland",
+        "Connective": "as a result",
+        "DocID": "wsj_2281",
+        "ID": 37109,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "Our balance sheets look like they came from Alice's wonderland",
+        "Arg2": "The British version shows \"a handful of pounds of net worth\" following the 1987 write-off of good will, while the American version reflects \"$1 billion of net worth because almost none of {the good will} has been written off",
+        "Connective": "for instance",
+        "DocID": "wsj_2281",
+        "ID": 37110,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "but wouldn't specify how much",
+        "Arg2": "People close to Blue Arrow suggested the write-down would represent a sizable chunk, with executives claiming prior management overstated the extent of Manpower's good will",
+        "Connective": "however",
+        "DocID": "wsj_2281",
+        "ID": 37113,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "and its profits have dropped",
+        "Arg2": "Last year's earnings of $1.3 million, including $815,000 from a restructuring gain, were far below the year-earlier $8.4 million",
+        "Connective": "for instance",
+        "DocID": "wsj_2282",
+        "ID": 37121,
+        "Sense": "Expansion.Instantiation"
+    },
+    {
+        "Arg1": "Besides spurring Barry Wright's sales, which were $201.7 million in 1988, Mr. Sim must pare its costs and product line",
+        "Arg2": "The question is how long it's going to take Barry Wright to make a contribution",
+        "Connective": "so",
+        "DocID": "wsj_2282",
+        "ID": 37123,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "The answer will help determine whether Applied continues to reach the ambitious goals set by Mr. Sim",
+        "Arg2": "The Butler, Wis., manufacturer went public at $15.75 a share in August 1987, and Mr. Sim's goal then was a $29 per-share price by 1992",
+        "Connective": "in particular",
+        "DocID": "wsj_2282",
+        "ID": 37124,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "and Mr. Sim's goal then was a $29 per-share price by 1992",
+        "Arg2": "Strong earnings growth helped achieve that price far ahead of schedule, in August 1988",
+        "Connective": "in fact",
+        "DocID": "wsj_2282",
+        "ID": 37126,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Strong earnings growth helped achieve that price far ahead of schedule, in August 1988",
+        "Arg2": "The stock has since softened",
+        "Connective": "but",
+        "DocID": "wsj_2282",
+        "ID": 37127,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "In Barry Wright, Mr. Sim sees a situation \"very similar\" to the one he faced when he joined Applied as president and chief operating officer in 1985",
+        "Arg2": "Applied, then a closely held company, was stagnating under the management of its controlling family",
+        "Connective": "specifically",
+        "DocID": "wsj_2282",
+        "ID": 37130,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "Applied, then a closely held company, was stagnating under the management of its controlling family",
+        "Arg2": "While profitable, it \"wasn't growing and wasn't providing a satisfactory return on invested capital",
+        "Connective": "in particular",
+        "DocID": "wsj_2282",
+        "ID": 37131,
+        "Sense": "Expansion.Restatement"
+    },
+    {
+        "Arg1": "the new unit's operations \"fundamentally sound that Barry Wright has been fairly successful in moving into markets that haven't interested larger competitors",
+        "Arg2": "With a little patience, these businesses will perform very satisfactorily",
+        "Connective": "so",
+        "DocID": "wsj_2282",
+        "ID": 37135,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "it will be easier to turn Barry Wright around since he's now in the driver's seat",
+        "Arg2": "When he came to Applied, \"I didn't have the power to execute as I do today",
+        "Connective": "by comparison",
+        "DocID": "wsj_2282",
+        "ID": 37138,
+        "Sense": "Comparison.Contrast"
+    },
+    {
+        "Arg1": "At Applied, Mr. Sim set growth as his first objective",
+        "Arg2": "He took the company public in an offering that netted Applied about $12.6 million, which helped launch the company's acquisition program",
+        "Connective": "accordingly",
+        "DocID": "wsj_2282",
+        "ID": 37141,
+        "Sense": "Contingency.Cause.Result"
+    },
+    {
+        "Arg1": "He took the company public in an offering that netted Applied about $12.6 million, which helped launch the company's acquisition program",
+        "Arg2": "Sales climbed to an estimated $245 million in fiscal 1989, ended Aug. 31, from $99.9 million in fiscal 1985",
+        "Connective": "in addition",
+        "DocID": "wsj_2282",
+        "ID": 37142,
+        "Sense": "Expansion.Conjunction"
+    },
+    {
+        "Arg1": "Sales climbed to an estimated $245 million in fiscal 1989, ended Aug. 31, from $99.9 million in fiscal 1985",
+        "Arg2": "The company expects that earnings reached about $20.8 million, or $1.58 a share, in the fiscal year just ended, up from $15.2 million in fiscal 1988 and $3.9 million in 1985",
+        "Connective": "and",
+        "DocID": "wsj_2282",
+        "ID": 37143,
+        "Sense": "Expansion.Conjunction"
+    }
+]

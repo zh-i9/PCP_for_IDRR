@@ -1,0 +1,107 @@
+{
+    "Comparison": {
+        "however": 1
+    },
+    "Comparison.Concession": {
+        "but": 1,
+        "even though": 1,
+        "although": 1,
+        "nevertheless": 1,
+        "nonetheless": 1
+    },
+    "Comparison.Contrast": {
+        "however": 24,
+        "but": 23,
+        "by comparison": 14,
+        "by contrast": 7,
+        "whereas": 5,
+        "although": 4,
+        "meanwhile": 1,
+        "on the contrary": 1,
+        "instead": 1,
+        "on the other hand": 1
+    },
+    "Contingency.Cause.Reason": {
+        "because": 50,
+        "as": 11,
+        "since": 8,
+        "in fact": 1
+    },
+    "Contingency.Cause.Result": {
+        "so": 28,
+        "as a result": 11,
+        "accordingly": 3,
+        "consequently": 3,
+        "in short": 1,
+        "thus": 1,
+        "in fact": 1,
+        "hence": 1
+    },
+    "Expansion": {
+        "in other words": 2,
+        "in short": 1,
+        "indeed": 1,
+        "in turn": 1,
+        "while": 1
+    },
+    "Expansion.Alternative.Chosen alternative": {
+        "rather": 1,
+        "instead": 1
+    },
+    "Expansion.Conjunction": {
+        "and": 37,
+        "also": 13,
+        "meanwhile": 10,
+        "in fact": 8,
+        "similarly": 6,
+        "while": 6,
+        "in addition": 5,
+        "further": 5,
+        "in other words": 2,
+        "indeed": 2,
+        "moreover": 2,
+        "that is": 1,
+        "in short": 1,
+        "ultimately": 1,
+        "furthermore": 1,
+        "second": 1,
+        "but": 1,
+        "in return": 1,
+        "besides": 1,
+        "on the whole": 1
+    },
+    "Expansion.Instantiation": {
+        "for instance": 45,
+        "for example": 2
+    },
+    "Expansion.Restatement": {
+        "specifically": 42,
+        "in particular": 18,
+        "in fact": 9,
+        "in other words": 7,
+        "indeed": 7,
+        "on the whole": 4,
+        "for instance": 3,
+        "that is": 3,
+        "and": 2,
+        "in short": 2,
+        "rather": 1,
+        "first": 1,
+        "so": 1,
+        "in sum": 1
+    },
+    "Temporal.Asynchronous.Precedence": {
+        "then": 16,
+        "subsequently": 6,
+        "in turn": 1
+    },
+    "Temporal.Asynchronous.Succession": {
+        "previously": 2,
+        "earlier": 1
+    },
+    "Temporal.Synchrony": {
+        "as": 1,
+        "meanwhile": 1,
+        "at that time": 1
+    }
+}

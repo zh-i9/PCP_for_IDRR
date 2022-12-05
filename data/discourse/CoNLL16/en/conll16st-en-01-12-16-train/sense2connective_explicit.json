@@ -1,0 +1,120 @@
+{
+    "Comparison": {
+        "but": 228,
+        "however": 45,
+        "while": 15,
+        "although": 14,
+        "though": 10
+    },
+    "Comparison.Concession": {
+        "but": 484,
+        "although": 134,
+        "though": 76,
+        "while": 75,
+        "however": 72,
+        "still": 68,
+        "even though": 60,
+        "even if": 27,
+        "yet": 26,
+        "nonetheless": 15,
+        "nevertheless": 12
+    },
+    "Comparison.Contrast": {
+        "but": 1851,
+        "while": 305,
+        "however": 260,
+        "although": 118,
+        "though": 98,
+        "still": 72,
+        "yet": 45,
+        "on the other hand": 27,
+        "by contrast": 25,
+        "nevertheless": 16,
+        "and": 16,
+        "even though": 15,
+        "in contrast": 10
+    },
+    "Contingency.Cause.Reason": {
+        "because": 624,
+        "as": 116,
+        "since": 75,
+        "partly because": 11
+    },
+    "Contingency.Cause.Result": {
+        "so": 211,
+        "thus": 88,
+        "as a result": 62,
+        "and": 32,
+        "so that": 21,
+        "therefore": 21,
+        "thereby": 11
+    },
+    "Contingency.Condition": {
+        "if": 874,
+        "when": 103,
+        "even if": 38,
+        "until": 16,
+        "only if": 11
+    },
+    "Expansion": {
+        "as if": 11
+    },
+    "Expansion.Alternative": {
+        "unless": 80,
+        "or": 63,
+        "otherwise": 20
+    },
+    "Expansion.Alternative.Chosen alternative": {
+        "instead": 88
+    },
+    "Expansion.Conjunction": {
+        "and": 2132,
+        "also": 1407,
+        "in addition": 129,
+        "moreover": 83,
+        "but": 58,
+        "separately": 58,
+        "indeed": 46,
+        "while": 39,
+        "in fact": 31,
+        "meanwhile": 20,
+        "nor": 19,
+        "finally": 16,
+        "besides": 12,
+        "similarly": 10,
+        "furthermore": 10
+    },
+    "Expansion.Exception": {},
+    "Expansion.Instantiation": {
+        "for example": 151,
+        "for instance": 76
+    },
+    "Expansion.Restatement": {
+        "indeed": 29,
+        "in fact": 27,
+        "in other words": 15
+    },
+    "Temporal": {},
+    "Temporal.Asynchronous": {},
+    "Temporal.Asynchronous.Precedence": {
+        "then": 238,
+        "before": 223,
+        "until": 102,
+        "later": 75,
+        "in turn": 14,
+        "even before": 12
+    },
+    "Temporal.Asynchronous.Succession": {
+        "after": 345,
+        "when": 116,
+        "once": 58,
+        "since": 55,
+        "previously": 34
+    },
+    "Temporal.Synchrony": {
+        "when": 379,
+        "as": 298,
+        "while": 119,
+        "meanwhile": 18
+    }
+}
